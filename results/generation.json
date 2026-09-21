@@ -1,0 +1,4320 @@
+{
+  "generatedAt": "2026-09-20T18:52:55.963Z",
+  "model": "qwen2.5:3b",
+  "runs": [
+    {
+      "label": "closed-book (no retrieval)",
+      "condition": "closed-book",
+      "outcomes": [
+        {
+          "questionId": "q001",
+          "answer": "La potencia por metro cuadrado en condiciones de radiación aceptables es de aproximadamente 1000 W/m².",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 59,
+          "completionTokens": 29,
+          "ms": 5145.891328
+        },
+        {
+          "questionId": "q002",
+          "answer": "El valor medio de la constante solar es de aproximadamente 1361 W/m².",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 44,
+          "completionTokens": 22,
+          "ms": 578.682186
+        },
+        {
+          "questionId": "q003",
+          "answer": "La estancamiento se debió a la falta de tecnologías adecuadas y a la escasez de financiamiento.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 53,
+          "completionTokens": 29,
+          "ms": 707.304987
+        },
+        {
+          "questionId": "q004",
+          "answer": "Los colectores solares de alta temperatura fueron inventados por Charles Mathias en 1932.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 46,
+          "completionTokens": 24,
+          "ms": 608.182878
+        },
+        {
+          "questionId": "q005",
+          "answer": "Alrededor del 3% de la energía solar que llega a la Tierra es capturada por la fotosíntesis.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 54,
+          "completionTokens": 30,
+          "ms": 725.969903
+        },
+        {
+          "questionId": "q006",
+          "answer": "Se utilizan para calentar agua y aguas cloacales.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 47,
+          "completionTokens": 16,
+          "ms": 479.394222
+        },
+        {
+          "questionId": "q007",
+          "answer": "Los avances tecnológicos y la preocupación por la energía renovable fueron los principales eventos.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 52,
+          "completionTokens": 21,
+          "ms": 556.244513
+        },
+        {
+          "questionId": "q008",
+          "answer": "La capacidad mundial instalada de energía eólica a finales de 2023 era de aproximadamente 800 GW.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 54,
+          "completionTokens": 29,
+          "ms": 711.780873
+        },
+        {
+          "questionId": "q009",
+          "answer": "En 2022, Dinamarca generó más del 40% de su electricidad con energía eólica.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 55,
+          "completionTokens": 28,
+          "ms": 683.369907
+        },
+        {
+          "questionId": "q010",
+          "answer": "Los primeros molinos de viento en Europa datan del siglo XII.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 49,
+          "completionTokens": 18,
+          "ms": 508.657157
+        },
+        {
+          "questionId": "q011",
+          "answer": "Los primeros molinos de viento de uso práctico se construyeron en Inglaterra en el siglo XIII.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 53,
+          "completionTokens": 28,
+          "ms": 706.926976
+        },
+        {
+          "questionId": "q012",
+          "answer": "El coste de la energía eólica redujo significativamente entre los años ochenta y 2004.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 59,
+          "completionTokens": 26,
+          "ms": 639.726517
+        },
+        {
+          "questionId": "q013",
+          "answer": "En 1979, General Electric comenzó la producción en serie de turbinas de viento.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 55,
+          "completionTokens": 24,
+          "ms": 618.611778
+        },
+        {
+          "questionId": "q014",
+          "answer": "El término \"eólico\" se refiere a la energía generada por los vientos.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 45,
+          "completionTokens": 21,
+          "ms": 562.369676
+        },
+        {
+          "questionId": "q015",
+          "answer": "El mayor productor de energía hidroeléctrica es China, que produjo más de 350 TWh en 2013.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 62,
+          "completionTokens": 34,
+          "ms": 823.493456
+        },
+        {
+          "questionId": "q016",
+          "answer": "El primer esquema hidroeléctrico del mundo fue desarrollado en 1878 por James B. Francis en Quebec, Canadá.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 59,
+          "completionTokens": 35,
+          "ms": 834.928662
+        },
+        {
+          "questionId": "q017",
+          "answer": "La presa que superó en 2008 a Itaipú como la mayor del mundo fue la Three Gorges en China.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 56,
+          "completionTokens": 31,
+          "ms": 745.858682
+        },
+        {
+          "questionId": "q018",
+          "answer": "Se bombea agua al depósito superior cuando es necesario, generalmente durante las horas de mayor demanda.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 53,
+          "completionTokens": 24,
+          "ms": 613.810988
+        },
+        {
+          "questionId": "q019",
+          "answer": "Una central hidroeléctrica es considerada pequeña hasta 100 MW de capacidad.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 49,
+          "completionTokens": 22,
+          "ms": 570.348141
+        },
+        {
+          "questionId": "q020",
+          "answer": "El tiempo puede variar pero generalmente tarda unos 15-30 minutos.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 56,
+          "completionTokens": 20,
+          "ms": 589.22199
+        },
+        {
+          "questionId": "q021",
+          "answer": "Una central hidroeléctrica de pasada tiene una presa que controla el agua que fluye a través de una turbina.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 47,
+          "completionTokens": 31,
+          "ms": 749.28383
+        },
+        {
+          "questionId": "q022",
+          "answer": "Thomas Newcomen perfeccionó la máquina de vapor que inició la Revolución Industrial.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 52,
+          "completionTokens": 21,
+          "ms": 563.356862
+        },
+        {
+          "questionId": "q023",
+          "answer": "La máquina de vapor de James Watt fue patentada en 1769.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 45,
+          "completionTokens": 18,
+          "ms": 508.79091
+        },
+        {
+          "questionId": "q024",
+          "answer": "Introdujo la arado giratorio.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 46,
+          "completionTokens": 10,
+          "ms": 349.435151
+        },
+        {
+          "questionId": "q025",
+          "answer": "Las Guerras Napoleónicas aumentaron la demanda de productos manufacturados, impulsando así la industria europea.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 49,
+          "completionTokens": 28,
+          "ms": 704.269214
+        },
+        {
+          "questionId": "q026",
+          "answer": "En 1801, Inglaterra y Gales tenían 7,2 millones de habitantes.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 52,
+          "completionTokens": 25,
+          "ms": 635.785925
+        },
+        {
+          "questionId": "q027",
+          "answer": "Max Weber consideraba que el trabajo dentro del protestantismo, especialmente el luteranismo, fomentaba el espíritu de trabajo y la disciplina.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 46,
+          "completionTokens": 36,
+          "ms": 837.638706
+        },
+        {
+          "questionId": "q028",
+          "answer": "El historiador que situaba el inicio de la Revolución Industrial en la década de 1780 era David Hume.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 55,
+          "completionTokens": 29,
+          "ms": 717.07397
+        },
+        {
+          "questionId": "q029",
+          "answer": "El carbón era más eficiente y duradero frente a la madera.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 48,
+          "completionTokens": 17,
+          "ms": 493.166469
+        },
+        {
+          "questionId": "q030",
+          "answer": "El factor principal fue la necesidad de energía para impulsar la industria y el transporte.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 55,
+          "completionTokens": 20,
+          "ms": 543.644782
+        },
+        {
+          "questionId": "q031",
+          "answer": "La Revolución Francesa terminó con la toma del poder por Napoleón en 1799.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 51,
+          "completionTokens": 25,
+          "ms": 626.536593
+        },
+        {
+          "questionId": "q032",
+          "answer": "Montesquieu publicó \"Esprit des Lois\" en 1748.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 47,
+          "completionTokens": 20,
+          "ms": 536.735098
+        },
+        {
+          "questionId": "q033",
+          "answer": "Antes de la Revolución Francesa, el 80% de la población francesa era campesina.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 51,
+          "completionTokens": 26,
+          "ms": 659.429978
+        },
+        {
+          "questionId": "q034",
+          "answer": "El déficit previsto de la monarquía francesa en 1788 ascendía a más de 2 mil millones de livias.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 59,
+          "completionTokens": 34,
+          "ms": 816.760589
+        },
+        {
+          "questionId": "q035",
+          "answer": "La deuda acumulada había aumentado significativamente en 1789 respecto a 1774.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 60,
+          "completionTokens": 27,
+          "ms": 684.306326
+        },
+        {
+          "questionId": "q036",
+          "answer": "Rousseau publicó \"La República\" en 1762.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 45,
+          "completionTokens": 17,
+          "ms": 491.721826
+        },
+        {
+          "questionId": "q037",
+          "answer": "El Tratado de Utrecht (1713) no aumentó el desempleo entre las clases populares urbanas.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 53,
+          "completionTokens": 29,
+          "ms": 706.373884
+        },
+        {
+          "questionId": "q038",
+          "answer": "La burguesía intentaba acceder a la nobleza a través de la concesión de títulos nobiliarios.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 46,
+          "completionTokens": 28,
+          "ms": 692.782707
+        },
+        {
+          "questionId": "q039",
+          "answer": "Cervantes recibió el apodo de \"El Quijote\" por una herida en la batalla.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 49,
+          "completionTokens": 25,
+          "ms": 634.904884
+        },
+        {
+          "questionId": "q040",
+          "answer": "Cervantes intentó escapar cuatro veces de su cautiverio en Argel.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 52,
+          "completionTokens": 19,
+          "ms": 527.030561
+        },
+        {
+          "questionId": "q041",
+          "answer": "El delator fue Alonso Fernández de Avilés, conocido como Tirso de Molina.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 53,
+          "completionTokens": 22,
+          "ms": 581.583654
+        },
+        {
+          "questionId": "q042",
+          "answer": "El padre de Miguel de Cervantes se llamaba Rodrigo de Cervantes.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 45,
+          "completionTokens": 18,
+          "ms": 513.615645
+        },
+        {
+          "questionId": "q043",
+          "answer": "La primera novela que publicó Cervantes fue \"El Quijote de la Mancha\".",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 46,
+          "completionTokens": 22,
+          "ms": 582.479049
+        },
+        {
+          "questionId": "q044",
+          "answer": "Según Luce López-Baralt, Saavedra significa \"que salva a los demás\".",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 49,
+          "completionTokens": 21,
+          "ms": 569.289185
+        },
+        {
+          "questionId": "q045",
+          "answer": "El almirante italiano Andrea Doria dirigía la armada cristiana en la batalla de Lepanto.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 50,
+          "completionTokens": 25,
+          "ms": 632.878721
+        },
+        {
+          "questionId": "q046",
+          "answer": "La muerte de Cervantes se atribuye a la tuberculosis.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 47,
+          "completionTokens": 15,
+          "ms": 444.281152
+        },
+        {
+          "questionId": "q047",
+          "answer": "Cervantes fue encarcelado por no poder pagar una multa.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 49,
+          "completionTokens": 17,
+          "ms": 485.118567
+        },
+        {
+          "questionId": "q048",
+          "answer": "Alan Turing concejo la idea de la prueba de Turing en la década de 1950.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 44,
+          "completionTokens": 22,
+          "ms": 580.638737
+        },
+        {
+          "questionId": "q049",
+          "answer": "Turing diseñó una máquina llamada bombe para descifrar Enigma.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 44,
+          "completionTokens": 18,
+          "ms": 512.887553
+        },
+        {
+          "questionId": "q050",
+          "answer": "El trabajo de Bletchley Park ayudó a acortar la Segunda Guerra Mundial en aproximadamente dos años.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 58,
+          "completionTokens": 28,
+          "ms": 700.213627
+        },
+        {
+          "questionId": "q051",
+          "answer": "En el billete de 10 libras de Reino Unido aparece Alan Turing.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 40,
+          "completionTokens": 21,
+          "ms": 561.530506
+        },
+        {
+          "questionId": "q052",
+          "answer": "Murió de tuberculosis.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 47,
+          "completionTokens": 7,
+          "ms": 310.915735
+        },
+        {
+          "questionId": "q053",
+          "answer": "La tesis de Church-Turing afirma que cualquier proceso computable puede ser simulado por un Turing machine.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 50,
+          "completionTokens": 24,
+          "ms": 615.481047
+        },
+        {
+          "questionId": "q054",
+          "answer": "El primer prototipo de la máquina Bombe fue terminado en 1943.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 50,
+          "completionTokens": 21,
+          "ms": 574.418099
+        },
+        {
+          "questionId": "q055",
+          "answer": "Enigma fue inventado por un equipo de ingenieros alemanes.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 41,
+          "completionTokens": 17,
+          "ms": 499.378256
+        },
+        {
+          "questionId": "q056",
+          "answer": "Melvin Calvin recibió el Premio Nobel de Química de 1961 por sus estudios sobre la fotosíntesis.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 63,
+          "completionTokens": 31,
+          "ms": 783.17721
+        },
+        {
+          "questionId": "q057",
+          "answer": "La molécula que actúa como dador de electrones en la fotosíntesis de plantas y cianobacterias es la piroplásmida.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 61,
+          "completionTokens": 39,
+          "ms": 950.319147
+        },
+        {
+          "questionId": "q058",
+          "answer": "Una célula foliar típica tiene entre 10 y 100 cloroplastos.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 48,
+          "completionTokens": 24,
+          "ms": 622.537665
+        },
+        {
+          "questionId": "q059",
+          "answer": "El término \"aire deflogisticado\" fue acuñado por el escritor Ernest Hemingway.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 49,
+          "completionTokens": 24,
+          "ms": 626.481921
+        },
+        {
+          "questionId": "q060",
+          "answer": "Jan Ingenhousz recomendó que las plantas no deben estar en las casas por la noche.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 52,
+          "completionTokens": 23,
+          "ms": 620.943466
+        },
+        {
+          "questionId": "q061",
+          "answer": "Se confirmó en 1941 gracias a la investigación del científico inglés Cyril Hinshelwood.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 59,
+          "completionTokens": 23,
+          "ms": 618.793699
+        },
+        {
+          "questionId": "q062",
+          "answer": "Según los experimentos de Blackman, la fotosíntesis comienza a ralentizarse a temperaturas superiores a 25°C.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 57,
+          "completionTokens": 33,
+          "ms": 798.822721
+        },
+        {
+          "questionId": "q063",
+          "answer": "Los animales no pueden aprovecharse de la fotosíntesis, ya que no tienen el orgánimo para realizarla.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 49,
+          "completionTokens": 28,
+          "ms": 726.098915
+        },
+        {
+          "questionId": "q064",
+          "answer": "Los organismos fotosintéticos fijan aproximadamente 110-120 Gt de carbono al año.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 54,
+          "completionTokens": 29,
+          "ms": 742.362843
+        },
+        {
+          "questionId": "q065",
+          "answer": "Los órganos inmunitarios primarios son el hígado, el riñón y la médula ósea.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 47,
+          "completionTokens": 28,
+          "ms": 708.72361
+        },
+        {
+          "questionId": "q066",
+          "answer": "Se considera fiebre cuando la temperatura corporal supera los 37.5°C o 37.8°C.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 43,
+          "completionTokens": 28,
+          "ms": 700.359894
+        },
+        {
+          "questionId": "q067",
+          "answer": "El enrojecimiento en la inflamación se debe a la dilatación de los capilares y la liberación de citocinas.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 47,
+          "completionTokens": 32,
+          "ms": 786.944634
+        },
+        {
+          "questionId": "q068",
+          "answer": "La base de la vacunación es el proceso inmunitario de la respuesta adaptativa.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 47,
+          "completionTokens": 21,
+          "ms": 579.87576
+        },
+        {
+          "questionId": "q069",
+          "answer": "La unidad anatómico-funcional de la respuesta inmunitaria adquirida es el esplorador inmune.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 55,
+          "completionTokens": 30,
+          "ms": 757.771272
+        },
+        {
+          "questionId": "q070",
+          "answer": "Puede haber cambios en la salud gastrointestinal y aumento de infecciones.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 51,
+          "completionTokens": 16,
+          "ms": 482.071593
+        },
+        {
+          "questionId": "q071",
+          "answer": "Las enzimas antibacterianas más conocidas en saliva, lágrimas y leche materna son las lactas y las lysozymas.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 56,
+          "completionTokens": 34,
+          "ms": 826.942797
+        },
+        {
+          "questionId": "q072",
+          "answer": "El virus que causa el sida es el VIH (Virus de Inmunodeficiencia Humana).",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 40,
+          "completionTokens": 24,
+          "ms": 630.844681
+        },
+        {
+          "questionId": "q073",
+          "answer": "El sentido actual de la palabra \"inmunidad\" se remonta al siglo XVIII.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 50,
+          "completionTokens": 21,
+          "ms": 594.776419
+        },
+        {
+          "questionId": "q074",
+          "answer": "Las enfermedades autoinmunes son aquellas en las que el sistema inmunológico ataca los tejidos del propio cuerpo.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 42,
+          "completionTokens": 28,
+          "ms": 713.149935
+        },
+        {
+          "questionId": "q075",
+          "answer": "La punta de Aconcagua en Chile es el punto más alto de los Andes.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 49,
+          "completionTokens": 20,
+          "ms": 559.12146
+        },
+        {
+          "questionId": "q076",
+          "answer": "La cordillera de los Andes tiene aproximadamente 7.000 kilómetros de longitud.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 50,
+          "completionTokens": 24,
+          "ms": 632.311633
+        },
+        {
+          "questionId": "q077",
+          "answer": "Los Andes se forman principalmente por la convergencia entre el placaje oceanico-arc y el placaje continental.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 49,
+          "completionTokens": 27,
+          "ms": 683.22288
+        },
+        {
+          "questionId": "q078",
+          "answer": "La placa de Nazca subeduce a una velocidad de aproximadamente 5 centímetros por año.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 44,
+          "completionTokens": 24,
+          "ms": 633.126476
+        },
+        {
+          "questionId": "q079",
+          "answer": "La cordillera divide Colombia en la región andina y la región costeña.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 48,
+          "completionTokens": 18,
+          "ms": 532.412353
+        },
+        {
+          "questionId": "q080",
+          "answer": "La fosa asociada a la subducción bajo los Andes se llama Fosa de Muqui.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 54,
+          "completionTokens": 23,
+          "ms": 621.856216
+        },
+        {
+          "questionId": "q081",
+          "answer": "El deshielo acelerado de los glaciares andinos comenzó a notarse a partir de la década de 1980.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 51,
+          "completionTokens": 32,
+          "ms": 805.248607
+        },
+        {
+          "questionId": "q082",
+          "answer": "El punto más alto de la cordillera de Mérida en Venezuela es el Pico Bolívar con 3.335 metros de altura.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 51,
+          "completionTokens": 34,
+          "ms": 820.904346
+        },
+        {
+          "questionId": "q083",
+          "answer": "El geólogo sueco Axel Ångström propuso la división geológica clásica de los Andes en 1973.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 55,
+          "completionTokens": 32,
+          "ms": 793.101894
+        },
+        {
+          "questionId": "q084",
+          "answer": "Los glaciares de la Patagonia Sur han adelgazado aproximadamente 30 metros por año.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 53,
+          "completionTokens": 25,
+          "ms": 663.358406
+        },
+        {
+          "questionId": "q085",
+          "answer": "Se cree que los incas conquistaron la quebrada de Puente Picchu hacia 1430.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 51,
+          "completionTokens": 26,
+          "ms": 683.012392
+        },
+        {
+          "questionId": "q086",
+          "answer": "Pikchu significa niño en quechua.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 41,
+          "completionTokens": 11,
+          "ms": 393.776314
+        },
+        {
+          "questionId": "q087",
+          "answer": "Machu Picchu figura en la Lista del Patrimonio de la Humanidad de la UNESCO desde 1983.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 57,
+          "completionTokens": 27,
+          "ms": 692.433304
+        },
+        {
+          "questionId": "q088",
+          "answer": "El área urbana de Machu Picchu tiene varios edificios y estructuras.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 49,
+          "completionTokens": 19,
+          "ms": 558.429097
+        },
+        {
+          "questionId": "q089",
+          "answer": "El viaje en tren de Cusco a Aguas Calientes tarda aproximadamente una hora.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 50,
+          "completionTokens": 22,
+          "ms": 599.772674
+        },
+        {
+          "questionId": "q090",
+          "answer": "El clima en Machu Picchu oscila entre temperaturas cálidas, con promedio anual de 13°C.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 47,
+          "completionTokens": 29,
+          "ms": 738.635777
+        },
+        {
+          "questionId": "q091",
+          "answer": "Se estima que Machu Picchu albergaba entre 300 y 1000 habitantes.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 47,
+          "completionTokens": 26,
+          "ms": 680.949841
+        },
+        {
+          "questionId": "q092",
+          "answer": "Existían al menos 6 caminos incaicos que llegaban a Machu Picchu.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 48,
+          "completionTokens": 21,
+          "ms": 573.844702
+        },
+        {
+          "questionId": "q093",
+          "answer": "No se conoce con certeza el curaca de Machu Picchu en 1568.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 50,
+          "completionTokens": 24,
+          "ms": 646.471607
+        },
+        {
+          "questionId": "q094",
+          "answer": "Machu Picchu fue nombrada una de las nuevas siete maravillas del mundo moderno en 2007.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 57,
+          "completionTokens": 29,
+          "ms": 745.61444
+        },
+        {
+          "questionId": "q095",
+          "answer": "Machu Picchu se asienta sobre una roca predominante de andesita.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 48,
+          "completionTokens": 20,
+          "ms": 568.674376
+        },
+        {
+          "questionId": "q096",
+          "answer": "En 2019, aproximadamente 400 mil peregrinos llegaron a Santiago.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 50,
+          "completionTokens": 24,
+          "ms": 637.725101
+        },
+        {
+          "questionId": "q097",
+          "answer": "La tumba de Santiago fue descubierta en 1565.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 47,
+          "completionTokens": 18,
+          "ms": 520.77641
+        },
+        {
+          "questionId": "q098",
+          "answer": "Alfonso II el Casto proclamó a Santiago patrón del reino de Asturias.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 52,
+          "completionTokens": 25,
+          "ms": 654.758328
+        },
+        {
+          "questionId": "q099",
+          "answer": "Hay catalogados 21 caminos Jacobeos y se pueden recorrer en 6 países.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 50,
+          "completionTokens": 23,
+          "ms": 618.000728
+        },
+        {
+          "questionId": "q100",
+          "answer": "El párroco destacó en la recuperación del camino para hacerlo a pie.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 51,
+          "completionTokens": 20,
+          "ms": 577.391214
+        },
+        {
+          "questionId": "q101",
+          "answer": "La primera ruta que siguieron los peregrinos fue la del Camino de Santiago.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 47,
+          "completionTokens": 20,
+          "ms": 567.44255
+        },
+        {
+          "questionId": "q102",
+          "answer": "El Papa Juan Pablo II visitó por primera vez la tumba del apóstol Santiago el Menor en el año 2001.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 51,
+          "completionTokens": 31,
+          "ms": 784.234094
+        },
+        {
+          "questionId": "q103",
+          "answer": "El padre de Santiago el Mayor era Santiago el Menor.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 43,
+          "completionTokens": 13,
+          "ms": 421.493617
+        },
+        {
+          "questionId": "q104",
+          "answer": "Jesús les dio el apodo Simón Pedro a Santiago y Juan.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 48,
+          "completionTokens": 17,
+          "ms": 504.38806
+        },
+        {
+          "questionId": "q105",
+          "answer": "El asentamiento romano identificado es Pompeyo.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 52,
+          "completionTokens": 13,
+          "ms": 423.960636
+        },
+        {
+          "questionId": "q106",
+          "answer": "Las dos grandes crisis de la peregrinación jacobita fueron el levantamiento de 1715 y la Revolución de 1745.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 51,
+          "completionTokens": 37,
+          "ms": 899.844681
+        },
+        {
+          "questionId": "q107",
+          "answer": "En 2023, la energía eólica generó alrededor del 4% de la electricidad mundial. En 2015, la hidroeléctrica generó alrededor del 16% de la electricidad mundial.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 73,
+          "completionTokens": 57,
+          "ms": 1315.68877
+        },
+        {
+          "questionId": "q108",
+          "answer": "Los primeros molinos de viento de uso práctico se construyeron en el siglo XI. Los primeros molinos europeos se desarrollaron en el siglo XII.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 62,
+          "completionTokens": 40,
+          "ms": 998.462973
+        },
+        {
+          "questionId": "q109",
+          "answer": "La presa Hoover en 1936 tenía una potencia de 1.1 GW. La presa de las Tres Gargantas tiene una capacidad instalada de 28 GW.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 59,
+          "completionTokens": 43,
+          "ms": 1034.621727
+        },
+        {
+          "questionId": "q110",
+          "answer": "Machu Picchu se encuentra en la Cordillera de los Andes y la cordillera total mide aproximadamente 7.000 km de largo.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 54,
+          "completionTokens": 36,
+          "ms": 876.307468
+        }
+      ]
+    },
+    {
+      "label": "RAG — IADocuments today (k=5)",
+      "condition": "rag",
+      "chunker": "fixed-1000-150",
+      "retriever": "nomic-raw",
+      "k": 5,
+      "outcomes": [
+        {
+          "questionId": "q001",
+          "answer": "1000 W/m²",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1461,
+          "completionTokens": 8,
+          "ms": 5148.942315
+        },
+        {
+          "questionId": "q002",
+          "answer": "1361 W/m²",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 1417,
+          "completionTokens": 8,
+          "ms": 5094.058211
+        },
+        {
+          "questionId": "q003",
+          "answer": "Porque el desarrollo se estancó debido a la cada vez mayor disponibilidad y economía de escala de fuentes no renovables como el carbón y el petróleo.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1456,
+          "completionTokens": 38,
+          "ms": 6969.940503
+        },
+        {
+          "questionId": "q004",
+          "answer": "Frank Shuman inventó los colectores solares de alta temperatura.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1399,
+          "completionTokens": 16,
+          "ms": 6424.962861
+        },
+        {
+          "questionId": "q005",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": false,
+          "promptTokens": 1418,
+          "completionTokens": 6,
+          "ms": 5815.834894
+        },
+        {
+          "questionId": "q006",
+          "answer": "Los colectores solares de baja temperatura se utilizan para calentar piscinas, agua para baño y otras actividades industriales con calor de proceso menor a 60 °C.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1395,
+          "completionTokens": 39,
+          "ms": 2059.876261
+        },
+        {
+          "questionId": "q007",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": false,
+          "promptTokens": 1421,
+          "completionTokens": 6,
+          "ms": 2121.026309
+        },
+        {
+          "questionId": "q008",
+          "answer": "La capacidad mundial instalada de energía eólica a finales de 2023 era de 906 GW.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1440,
+          "completionTokens": 27,
+          "ms": 5938.205921
+        },
+        {
+          "questionId": "q009",
+          "answer": "55,03 %",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1426,
+          "completionTokens": 7,
+          "ms": 5751.96929
+        },
+        {
+          "questionId": "q010",
+          "answer": "Los primeros molinos de viento aparecieron en Europa en el siglo XII en Francia e Inglaterra.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1480,
+          "completionTokens": 27,
+          "ms": 5863.69336
+        },
+        {
+          "questionId": "q011",
+          "answer": "En Sistán, Afganistán.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1432,
+          "completionTokens": 12,
+          "ms": 3355.943127
+        },
+        {
+          "questionId": "q012",
+          "answer": "El costo de la energía eólica se redujo a una quinta parte del que tenía en los años 1980 en 2004.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1476,
+          "completionTokens": 34,
+          "ms": 5814.271967
+        },
+        {
+          "questionId": "q013",
+          "answer": "Kuriant, Vestas, Nordtank, Nily Baltazar y Bonus.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1315,
+          "completionTokens": 18,
+          "ms": 4778.352832
+        },
+        {
+          "questionId": "q014",
+          "answer": "El término \"eólico\" alude a Eolo, el dios de los vientos en la mitología griega.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1398,
+          "completionTokens": 28,
+          "ms": 5251.531868
+        },
+        {
+          "questionId": "q015",
+          "answer": "China es el mayor productor de energía hidroeléctrica con 920 teravatios-hora en 2013.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1555,
+          "completionTokens": 33,
+          "ms": 6127.676814
+        },
+        {
+          "questionId": "q016",
+          "answer": "William Armstrong desarrolló en 1878 el primer esquema hidroeléctrico del mundo en Cragside, en Northumberland, Inglaterra.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1641,
+          "completionTokens": 37,
+          "ms": 7091.368084
+        },
+        {
+          "questionId": "q017",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": false,
+          "promptTokens": 1421,
+          "completionTokens": 6,
+          "ms": 4974.052165
+        },
+        {
+          "questionId": "q018",
+          "answer": "En momentos de baja demanda eléctrica.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1465,
+          "completionTokens": 11,
+          "ms": 4337.271231
+        },
+        {
+          "questionId": "q019",
+          "answer": "Una pequeña central hidroeléctrica se considera tener una capacidad de generación de hasta 10 megavatios (MW), aunque puede extenderse hasta 25 MW o 30 MW en Canadá y los Estados Unidos.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1455,
+          "completionTokens": 55,
+          "ms": 5943.117643
+        },
+        {
+          "questionId": "q020",
+          "answer": "Entre 60 y 90 segundos",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1262,
+          "completionTokens": 10,
+          "ms": 4235.69089
+        },
+        {
+          "questionId": "q021",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": false,
+          "promptTokens": 1464,
+          "completionTokens": 6,
+          "ms": 5431.576118
+        },
+        {
+          "questionId": "q022",
+          "answer": "James Watt perfeccionó la máquina de vapor, cuya aplicación inició la Revolución Industrial.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1369,
+          "completionTokens": 22,
+          "ms": 4113.97377
+        },
+        {
+          "questionId": "q023",
+          "answer": "1769",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1331,
+          "completionTokens": 5,
+          "ms": 4852.972345
+        },
+        {
+          "questionId": "q024",
+          "answer": "La innovación agrícola introdujo Jethro Tull fue la sembradora mecánica de principios del siglo XVIII.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1438,
+          "completionTokens": 31,
+          "ms": 4162.925606
+        },
+        {
+          "questionId": "q025",
+          "answer": "Las Guerras Napoleónicas impulsaron la industria europea porque las importaciones se suspendieron durante la guerra, obligando a los gobiernos a presionar a sus industrias para producir más y mejor que antes.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1471,
+          "completionTokens": 51,
+          "ms": 5894.784792
+        },
+        {
+          "questionId": "q026",
+          "answer": "8,3 millones",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1552,
+          "completionTokens": 5,
+          "ms": 5236.978057
+        },
+        {
+          "questionId": "q027",
+          "answer": "Max Weber consideraba al trabajo y al esfuerzo como un bien y un valor fundamental dentro del protestantismo.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1464,
+          "completionTokens": 26,
+          "ms": 4425.303999
+        },
+        {
+          "questionId": "q028",
+          "answer": "Eric Hobsbawm situaba el inicio de la Revolución Industrial en la década de 1780.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1435,
+          "completionTokens": 26,
+          "ms": 5885.326689
+        },
+        {
+          "questionId": "q029",
+          "answer": "El carbón mineral ofrecía una mayor continuidad de suministro frente a la madera, que está limitada por la deforestación.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1463,
+          "completionTokens": 32,
+          "ms": 5392.843533
+        },
+        {
+          "questionId": "q030",
+          "answer": "El desarrollo de las centrales hidroeléctricas fue impulsado por la industrialización, específicamente por la necesidad de energía para el desarrollo de grandes proyectos de riego en el oeste de los Estados Unidos.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 1556,
+          "completionTokens": 49,
+          "ms": 6428.845389
+        },
+        {
+          "questionId": "q031",
+          "answer": "El golpe de Estado de Napoleón Bonaparte en 1799 terminó la Revolución francesa.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1502,
+          "completionTokens": 28,
+          "ms": 5246.864043
+        },
+        {
+          "questionId": "q032",
+          "answer": "De l'esprit des lois",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1320,
+          "completionTokens": 8,
+          "ms": 4429.448897
+        },
+        {
+          "questionId": "q033",
+          "answer": "85%",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1466,
+          "completionTokens": 4,
+          "ms": 5104.565886
+        },
+        {
+          "questionId": "q034",
+          "answer": "El déficit previsto de la monarquía francesa en 1788 alcanzaba los 126 millones de livres.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1538,
+          "completionTokens": 34,
+          "ms": 4481.5885
+        },
+        {
+          "questionId": "q035",
+          "answer": "La deuda acumulada en 1789 ascendía a unos cinco mil millones de livres, el triple de la que existía cuando Luis XVI accedió al trono en 1774.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1547,
+          "completionTokens": 47,
+          "ms": 5030.989664
+        },
+        {
+          "questionId": "q036",
+          "answer": "El libro publicó Rousseau en 1762 es \"El contrato social\".",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1457,
+          "completionTokens": 19,
+          "ms": 5514.223567
+        },
+        {
+          "questionId": "q037",
+          "answer": "El tratado de \"libre comercio\" firmado en 1786 con Inglaterra aumentó el desempleo entre las clases populares urbanas.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1316,
+          "completionTokens": 37,
+          "ms": 4765.236278
+        },
+        {
+          "questionId": "q038",
+          "answer": "Los miembros de la burguesía naciente accedían a la nobleza mediante matrimonios con hijos o hijas de nobles, compra de títulos nobiliarios o de señoríos, y acceso a determinados cargos en la administración real que entraban en el ennoblecimiento automático de su titular.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1501,
+          "completionTokens": 71,
+          "ms": 6371.921487
+        },
+        {
+          "questionId": "q039",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": false,
+          "promptTokens": 1483,
+          "completionTokens": 6,
+          "ms": 4884.856855
+        },
+        {
+          "questionId": "q040",
+          "answer": "Cervantes intentó escapar cuatro veces.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1439,
+          "completionTokens": 11,
+          "ms": 4218.519015
+        },
+        {
+          "questionId": "q041",
+          "answer": "El ex dominico doctor Juan Blanco de Paz reveló todo el plan a Azán Bajá.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1556,
+          "completionTokens": 22,
+          "ms": 5189.225762
+        },
+        {
+          "questionId": "q042",
+          "answer": "Rodrigo de Cervantes",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1563,
+          "completionTokens": 8,
+          "ms": 4078.01655
+        },
+        {
+          "questionId": "q043",
+          "answer": "Don Quijote, publicada en dos partes en 1605 y 1615.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 1557,
+          "completionTokens": 24,
+          "ms": 5040.233788
+        },
+        {
+          "questionId": "q044",
+          "answer": "El apellido Saavedra tendría el significado de \"brazo tullido o estropeado\" según Luce López-Baralt.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1549,
+          "completionTokens": 32,
+          "ms": 6458.240012
+        },
+        {
+          "questionId": "q045",
+          "answer": "Don Juan de Austria",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1612,
+          "completionTokens": 5,
+          "ms": 5136.945445
+        },
+        {
+          "questionId": "q046",
+          "answer": "Se atribuyen a complicaciones posiblemente relacionadas con la diabetes o la hidropesía.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1443,
+          "completionTokens": 23,
+          "ms": 5115.47426
+        },
+        {
+          "questionId": "q047",
+          "answer": "Por irregularidades fiscales como recaudador de impuestos.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1603,
+          "completionTokens": 15,
+          "ms": 5321.436585
+        },
+        {
+          "questionId": "q048",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": false,
+          "promptTokens": 1473,
+          "completionTokens": 6,
+          "ms": 4685.436276
+        },
+        {
+          "questionId": "q049",
+          "answer": "Turing diseñó la máquina Bombe para descifrar Enigma.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1456,
+          "completionTokens": 16,
+          "ms": 3919.247961
+        },
+        {
+          "questionId": "q050",
+          "answer": "Alrededor de catorce millones de vidas se calcula que salvó el trabajo de Bletchley Park al acortar la guerra.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1420,
+          "completionTokens": 33,
+          "ms": 5520.179689
+        },
+        {
+          "questionId": "q051",
+          "answer": "Un billete de 50 libras del Banco de Inglaterra, que se lanzó el 23 de junio de 2021, coincidiendo con su cumpleaños.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1469,
+          "completionTokens": 45,
+          "ms": 6084.262461
+        },
+        {
+          "questionId": "q052",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": false,
+          "promptTokens": 1514,
+          "completionTokens": 6,
+          "ms": 5399.747953
+        },
+        {
+          "questionId": "q053",
+          "answer": "Todo algoritmo es equivalente a una máquina de Turing.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1462,
+          "completionTokens": 14,
+          "ms": 4186.099508
+        },
+        {
+          "questionId": "q054",
+          "answer": "El 14 de marzo de 1940 el primer prototipo de la máquina Bombe estaba terminado.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1396,
+          "completionTokens": 27,
+          "ms": 4883.346059
+        },
+        {
+          "questionId": "q055",
+          "answer": "Arthur Scherbius inventó la máquina Enigma.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1401,
+          "completionTokens": 13,
+          "ms": 4987.657814
+        },
+        {
+          "questionId": "q056",
+          "answer": "Melvin Calvin",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1495,
+          "completionTokens": 4,
+          "ms": 4283.788758
+        },
+        {
+          "questionId": "q057",
+          "answer": "El dador de electrones en la fotosíntesis de plantas y cianobacterias es el agua (agua).",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1516,
+          "completionTokens": 28,
+          "ms": 5637.360243
+        },
+        {
+          "questionId": "q058",
+          "answer": "Una célula foliar tiene de media entre cincuenta y sesenta cloroplastos en su interior.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1520,
+          "completionTokens": 24,
+          "ms": 5368.127082
+        },
+        {
+          "questionId": "q059",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": false,
+          "promptTokens": 1277,
+          "completionTokens": 6,
+          "ms": 4222.3427
+        },
+        {
+          "questionId": "q060",
+          "answer": "Jan Ingenhousz recomendó sacar a las plantas de las casas durante la noche para prevenir posibles intoxicaciones.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1462,
+          "completionTokens": 29,
+          "ms": 5634.758531
+        },
+        {
+          "questionId": "q061",
+          "answer": "Samuel Ruben y Martin Kamen con agua con oxígeno pesado y una alga verde (Chlorella) confirmaron en 1941 que el oxígeno de la fotosíntesis procede del agua.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1540,
+          "completionTokens": 53,
+          "ms": 5555.208286
+        },
+        {
+          "questionId": "q062",
+          "answer": "30 °C",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1317,
+          "completionTokens": 5,
+          "ms": 4709.612835
+        },
+        {
+          "questionId": "q063",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": false,
+          "promptTokens": 1473,
+          "completionTokens": 6,
+          "ms": 3507.022988
+        },
+        {
+          "questionId": "q064",
+          "answer": "100 000 millones de toneladas",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1492,
+          "completionTokens": 13,
+          "ms": 4946.89356
+        },
+        {
+          "questionId": "q065",
+          "answer": "Los órganos inmunitarios primarios son la médula ósea y el timo.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1516,
+          "completionTokens": 22,
+          "ms": 5929.955401
+        },
+        {
+          "questionId": "q066",
+          "answer": "A partir de 37.5°C se considera fiebre.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 1291,
+          "completionTokens": 16,
+          "ms": 4115.264884
+        },
+        {
+          "questionId": "q067",
+          "answer": "El enrojecimiento se debe al incremento del flujo de sangre en el tejido afectado.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1454,
+          "completionTokens": 24,
+          "ms": 4331.825757
+        },
+        {
+          "questionId": "q068",
+          "answer": "La respuesta inmunitaria adquirida es la base de la vacunación.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1494,
+          "completionTokens": 19,
+          "ms": 5438.252338
+        },
+        {
+          "questionId": "q069",
+          "answer": "El linfocito es la unidad anatómico-funcional de la respuesta inmunitaria adquirida.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1484,
+          "completionTokens": 27,
+          "ms": 4156.032832
+        },
+        {
+          "questionId": "q070",
+          "answer": "Cuando los antibióticos orales eliminan la flora normal, pueden producir un crecimiento excesivo de hongos, lo que puede originar procesos como la candidiasis vaginal.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1476,
+          "completionTokens": 44,
+          "ms": 5839.977475
+        },
+        {
+          "questionId": "q071",
+          "answer": "Las enzimas antibacterianas en la saliva, las lágrimas y la leche materna son la lisozima.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1386,
+          "completionTokens": 29,
+          "ms": 4590.68357
+        },
+        {
+          "questionId": "q072",
+          "answer": "El VIH provoca el sida.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1475,
+          "completionTokens": 10,
+          "ms": 5422.038196
+        },
+        {
+          "questionId": "q073",
+          "answer": "El sentido actual de la palabra «inmunidad» se remonta al año 1866.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1529,
+          "completionTokens": 23,
+          "ms": 5456.553131
+        },
+        {
+          "questionId": "q074",
+          "answer": "Las enfermedades autoinmunes son consecuencia de un sistema inmunitario hiperactivo que ataca tejidos normales como si fueran organismos extraños.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1504,
+          "completionTokens": 37,
+          "ms": 4992.162783
+        },
+        {
+          "questionId": "q075",
+          "answer": "El punto más alto de la cordillera de los Andes es el Aconcagua, con 6962 m s. n. m.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1382,
+          "completionTokens": 33,
+          "ms": 4889.805578
+        },
+        {
+          "questionId": "q076",
+          "answer": "La cordillera de los Andes tiene más de 8500 kilómetros de longitud.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1623,
+          "completionTokens": 23,
+          "ms": 4586.852751
+        },
+        {
+          "questionId": "q077",
+          "answer": "Las placas tectónicas Nazca, Caribe y Suramérica interactúan para formar los Andes del norte.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1547,
+          "completionTokens": 30,
+          "ms": 6344.350953
+        },
+        {
+          "questionId": "q078",
+          "answer": "La placa de Nazca subduce con una velocidad de 7-9 cm/año.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1542,
+          "completionTokens": 21,
+          "ms": 4858.001552
+        },
+        {
+          "questionId": "q079",
+          "answer": "La cordillera se divide en tres ramales en Colombia: Cordillera Occidental, Cordillera Central y Cordillera Oriental.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1316,
+          "completionTokens": 31,
+          "ms": 5468.25767
+        },
+        {
+          "questionId": "q080",
+          "answer": "La fosa oceánica asociada a la subducción bajo los Andes se llama fosa de Perú-Chile o de Atacama.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1615,
+          "completionTokens": 34,
+          "ms": 6367.775681
+        },
+        {
+          "questionId": "q081",
+          "answer": "2009",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1528,
+          "completionTokens": 5,
+          "ms": 5091.870141
+        },
+        {
+          "questionId": "q082",
+          "answer": "El punto más alto de la cordillera de Mérida en Venezuela es el pico Bolívar con 4978 m s. n. m.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1383,
+          "completionTokens": 36,
+          "ms": 4043.67061
+        },
+        {
+          "questionId": "q083",
+          "answer": "Augusto Gansser propuso en 1973 la división geológica clásica de los Andes.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1601,
+          "completionTokens": 27,
+          "ms": 5662.237397
+        },
+        {
+          "questionId": "q084",
+          "answer": "-0.86 m e.a. por año",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1555,
+          "completionTokens": 12,
+          "ms": 2772.669474
+        },
+        {
+          "questionId": "q085",
+          "answer": "Pachacútec conquistó la quebrada de Picchu hacia 1430.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1611,
+          "completionTokens": 23,
+          "ms": 4789.646292
+        },
+        {
+          "questionId": "q086",
+          "answer": "Pikchu significa 'pico, cumbre o prominencia con una amplia base que termina en puntas agudas' en quechua.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1589,
+          "completionTokens": 34,
+          "ms": 6355.200026
+        },
+        {
+          "questionId": "q087",
+          "answer": "Desde 1983",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1407,
+          "completionTokens": 7,
+          "ms": 4502.779891
+        },
+        {
+          "questionId": "q088",
+          "answer": "El área urbana de Machu Picchu cuenta con 172 edificios.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1412,
+          "completionTokens": 20,
+          "ms": 4641.859934
+        },
+        {
+          "questionId": "q089",
+          "answer": "32 km de recorrido a pie desde el km 82 de la vía férrea Cusco-Aguas Calientes.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 1435,
+          "completionTokens": 32,
+          "ms": 5739.985094
+        },
+        {
+          "questionId": "q090",
+          "answer": "El texto no proporciona directamente la temperatura del clima en Machu Picchu, solo indica que es de montaña tropical.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 1552,
+          "completionTokens": 28,
+          "ms": 4233.535967
+        },
+        {
+          "questionId": "q091",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": false,
+          "promptTokens": 1591,
+          "completionTokens": 6,
+          "ms": 4970.524488
+        },
+        {
+          "questionId": "q092",
+          "answer": "Ocho caminos llegaban a Machu Picchu.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1566,
+          "completionTokens": 13,
+          "ms": 4685.018356
+        },
+        {
+          "questionId": "q093",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": false,
+          "promptTokens": 1420,
+          "completionTokens": 6,
+          "ms": 4678.034427
+        },
+        {
+          "questionId": "q094",
+          "answer": "En 2007 Machu Picchu fue nombrada una de las nuevas siete maravillas del mundo moderno.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1428,
+          "completionTokens": 29,
+          "ms": 4507.05137
+        },
+        {
+          "questionId": "q095",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": false,
+          "promptTokens": 1596,
+          "completionTokens": 6,
+          "ms": 5590.379645
+        },
+        {
+          "questionId": "q096",
+          "answer": "347 578 personas",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1497,
+          "completionTokens": 9,
+          "ms": 5069.068246
+        },
+        {
+          "questionId": "q097",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": false,
+          "promptTokens": 1159,
+          "completionTokens": 6,
+          "ms": 3975.569603
+        },
+        {
+          "questionId": "q098",
+          "answer": "Alfonso II proclamó a Santiago el Mayor patrón del reino de Asturias.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1500,
+          "completionTokens": 24,
+          "ms": 4583.622294
+        },
+        {
+          "questionId": "q099",
+          "answer": "286 caminos en 28 países",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1523,
+          "completionTokens": 11,
+          "ms": 4819.715743
+        },
+        {
+          "questionId": "q100",
+          "answer": "El párroco Elías Valiña destacó en la recuperación del camino para hacerlo a pie.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1521,
+          "completionTokens": 25,
+          "ms": 3870.428505
+        },
+        {
+          "questionId": "q101",
+          "answer": "La primera ruta que siguieron los peregrinos fue la que partía de Oviedo, la capital de Asturias, y que, a través de la montaña, llegaba a Lugo y continuaba hasta el Locus Sancti Iacobi.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1498,
+          "completionTokens": 57,
+          "ms": 5728.330665
+        },
+        {
+          "questionId": "q102",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": false,
+          "promptTokens": 1558,
+          "completionTokens": 6,
+          "ms": 5899.913462
+        },
+        {
+          "questionId": "q103",
+          "answer": "El padre de Santiago el Mayor se llamaba Zebedeo.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1491,
+          "completionTokens": 14,
+          "ms": 5008.970539
+        },
+        {
+          "questionId": "q104",
+          "answer": "Jesús les dio el apodo de «hijos del trueno».",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1509,
+          "completionTokens": 19,
+          "ms": 5663.051213
+        },
+        {
+          "questionId": "q105",
+          "answer": "La investigación moderna identifica el enclave de la tumba con la mansio de Assegonia citada en varias obras geográficas redactadas en tiempos romanos.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1492,
+          "completionTokens": 40,
+          "ms": 5632.676703
+        },
+        {
+          "questionId": "q106",
+          "answer": "Las dos grandes crisis de la peregrinación jacobea fueron:\n\n1. En el siglo XVI debido a la tipología de quienes recorrían las rutas jacobeas y a la aparición de la teología protestante.\n\n2. La crisis iniciada tras la Revolución francesa y la pérdida de la infraestructura de alojamiento por las desamortizaciones del siglo XIX.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1512,
+          "completionTokens": 90,
+          "ms": 6845.929486
+        },
+        {
+          "questionId": "q107",
+          "answer": "Energía eólica: 7,3 %\nEnergía hidroeléctrica: 16,7 %",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1538,
+          "completionTokens": 28,
+          "ms": 6153.297737
+        },
+        {
+          "questionId": "q108",
+          "answer": "Los primeros molinos de uso práctico se construyeron en Sistán en el siglo VII. Los primeros molinos europeos aparecieron en el siglo XII.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1489,
+          "completionTokens": 41,
+          "ms": 2951.31963
+        },
+        {
+          "questionId": "q109",
+          "answer": "La Presa Hoover tenía 1345 MW en 1936 y la Presa de las Tres Gargantas tiene 22 500 MW.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1532,
+          "completionTokens": 39,
+          "ms": 5199.104546
+        },
+        {
+          "questionId": "q110",
+          "answer": "La cordillera de los Andes se encuentra en la zona occidental de América del Sur, y mide más de 8500 kilómetros.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1628,
+          "completionTokens": 35,
+          "ms": 5822.383375
+        },
+        {
+          "questionId": "u01",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": true,
+          "promptTokens": 1422,
+          "completionTokens": 6,
+          "ms": 2514.154739
+        },
+        {
+          "questionId": "u02",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": true,
+          "promptTokens": 1473,
+          "completionTokens": 6,
+          "ms": 4302.929325
+        },
+        {
+          "questionId": "u03",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": true,
+          "promptTokens": 1299,
+          "completionTokens": 6,
+          "ms": 3410.775082
+        },
+        {
+          "questionId": "u04",
+          "answer": "William Armstrong desarrolló el primer esquema hidroeléctrico del mundo en 1878.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 1357,
+          "completionTokens": 25,
+          "ms": 4500.906154
+        },
+        {
+          "questionId": "u05",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": true,
+          "promptTokens": 1512,
+          "completionTokens": 6,
+          "ms": 4942.3982
+        },
+        {
+          "questionId": "u06",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": true,
+          "promptTokens": 1583,
+          "completionTokens": 6,
+          "ms": 5379.127784
+        },
+        {
+          "questionId": "u07",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": true,
+          "promptTokens": 1446,
+          "completionTokens": 6,
+          "ms": 5253.690548
+        },
+        {
+          "questionId": "u08",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": true,
+          "promptTokens": 1483,
+          "completionTokens": 6,
+          "ms": 2800.929446
+        },
+        {
+          "questionId": "u09",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": true,
+          "promptTokens": 1444,
+          "completionTokens": 6,
+          "ms": 5498.191483
+        },
+        {
+          "questionId": "u10",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": true,
+          "promptTokens": 1387,
+          "completionTokens": 6,
+          "ms": 3519.083572
+        },
+        {
+          "questionId": "u11",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": true,
+          "promptTokens": 1385,
+          "completionTokens": 6,
+          "ms": 4983.803605
+        },
+        {
+          "questionId": "u12",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": true,
+          "promptTokens": 1478,
+          "completionTokens": 6,
+          "ms": 4687.953233
+        },
+        {
+          "questionId": "u13",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": true,
+          "promptTokens": 1329,
+          "completionTokens": 6,
+          "ms": 3998.168339
+        },
+        {
+          "questionId": "u14",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": true,
+          "promptTokens": 1455,
+          "completionTokens": 6,
+          "ms": 4447.431769
+        },
+        {
+          "questionId": "u15",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": true,
+          "promptTokens": 1434,
+          "completionTokens": 6,
+          "ms": 4025.122979
+        },
+        {
+          "questionId": "u16",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": true,
+          "promptTokens": 1310,
+          "completionTokens": 6,
+          "ms": 4221.453703
+        },
+        {
+          "questionId": "u17",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": true,
+          "promptTokens": 1354,
+          "completionTokens": 6,
+          "ms": 3656.786331
+        },
+        {
+          "questionId": "u18",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": true,
+          "promptTokens": 1519,
+          "completionTokens": 6,
+          "ms": 5180.01474
+        }
+      ]
+    },
+    {
+      "label": "RAG — best retrieval: para-1000 / hybrid-bge (k=5)",
+      "condition": "rag",
+      "chunker": "para-1000",
+      "retriever": "hybrid-bge",
+      "k": 5,
+      "outcomes": [
+        {
+          "questionId": "q001",
+          "answer": "1000 W/m²",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1281,
+          "completionTokens": 8,
+          "ms": 4445.885013
+        },
+        {
+          "questionId": "q002",
+          "answer": "El valor medio de la constante solar es 1366 W/m².",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1168,
+          "completionTokens": 19,
+          "ms": 3189.578279
+        },
+        {
+          "questionId": "q003",
+          "answer": "El desarrollo de la energía solar se estancó a comienzos del siglo XX debido a la cada vez mayor disponibilidad y economía de escala de fuentes no renovables como el carbón y el petróleo.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1314,
+          "completionTokens": 48,
+          "ms": 6043.803114
+        },
+        {
+          "questionId": "q004",
+          "answer": "Frank Shuman inventó los colectores solares de alta temperatura.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1149,
+          "completionTokens": 16,
+          "ms": 3931.806972
+        },
+        {
+          "questionId": "q005",
+          "answer": "El 0,08 % de la energía recibida por la Tierra captura la fotosíntesis.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1263,
+          "completionTokens": 25,
+          "ms": 4705.697438
+        },
+        {
+          "questionId": "q006",
+          "answer": "Los colectores solares de baja temperatura se utilizan para calentar agua para piscinas, calentamiento doméstico de agua para baño y otras actividades industriales con calor de proceso menor a 60 °C, como la pasteurización y el lavado textil.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 996,
+          "completionTokens": 60,
+          "ms": 4806.3326
+        },
+        {
+          "questionId": "q007",
+          "answer": "Entre 1970 y 1983, las instalaciones de sistemas fotovoltaicos crecieron rápidamente.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 1077,
+          "completionTokens": 29,
+          "ms": 4153.719713
+        },
+        {
+          "questionId": "q008",
+          "answer": "La capacidad mundial instalada de energía eólica a finales de 2023 era de 906 GW.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1239,
+          "completionTokens": 27,
+          "ms": 3944.931449
+        },
+        {
+          "questionId": "q009",
+          "answer": "55,03 %",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1252,
+          "completionTokens": 7,
+          "ms": 3991.405174
+        },
+        {
+          "questionId": "q010",
+          "answer": "Los primeros molinos de viento en Europa aparecieron en el siglo XII en Francia e Inglaterra.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1214,
+          "completionTokens": 27,
+          "ms": 3970.071904
+        },
+        {
+          "questionId": "q011",
+          "answer": "Los primeros molinos de uso práctico se construyeron en Sistán, Afganistán.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1160,
+          "completionTokens": 26,
+          "ms": 3790.874823
+        },
+        {
+          "questionId": "q012",
+          "answer": "El costo de la energía eólica se redujo a una quinta parte entre los años 1980 y 2004.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1097,
+          "completionTokens": 31,
+          "ms": 3922.185554
+        },
+        {
+          "questionId": "q013",
+          "answer": "Kuriant, Vestas, Nordtank, Nily Baltazar y Bonus.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1269,
+          "completionTokens": 18,
+          "ms": 4860.920786
+        },
+        {
+          "questionId": "q014",
+          "answer": "El término \"eólico\" alude a Eolo, el dios de los vientos en la mitología griega.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1161,
+          "completionTokens": 28,
+          "ms": 3662.143576
+        },
+        {
+          "questionId": "q015",
+          "answer": "China es el mayor productor de energía hidroeléctrica con 920 teravatios-hora en 2013.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1333,
+          "completionTokens": 33,
+          "ms": 5329.260808
+        },
+        {
+          "questionId": "q016",
+          "answer": "William Armstrong desarrolló el primer esquema hidroeléctrico del mundo en Cragside en Northumberland, Inglaterra en 1878.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1364,
+          "completionTokens": 36,
+          "ms": 4953.034203
+        },
+        {
+          "questionId": "q017",
+          "answer": "La Presa de las Tres Gargantas superó a Itaipú en 2008 como la más grande del mundo.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1224,
+          "completionTokens": 31,
+          "ms": 4643.519738
+        },
+        {
+          "questionId": "q018",
+          "answer": "Cuando la demanda de electricidad es baja.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 1019,
+          "completionTokens": 12,
+          "ms": 3633.207594
+        },
+        {
+          "questionId": "q019",
+          "answer": "Una pequeña central hidroeléctrica se considera generalmente con una capacidad de generación de hasta 10 megavatios (MW).",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1128,
+          "completionTokens": 33,
+          "ms": 3527.674849
+        },
+        {
+          "questionId": "q020",
+          "answer": "Entre 60 y 90 segundos.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1236,
+          "completionTokens": 11,
+          "ms": 4666.49166
+        },
+        {
+          "questionId": "q021",
+          "answer": "Una central hidroeléctrica de pasada tiene una capacidad de reservorio pequeña o nula, por lo que solo el agua proveniente de aguas arriba está disponible para la generación en ese momento.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1151,
+          "completionTokens": 47,
+          "ms": 4914.265016
+        },
+        {
+          "questionId": "q022",
+          "answer": "James Watt",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1164,
+          "completionTokens": 3,
+          "ms": 3756.54106
+        },
+        {
+          "questionId": "q023",
+          "answer": "1769",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 922,
+          "completionTokens": 5,
+          "ms": 3306.100847
+        },
+        {
+          "questionId": "q024",
+          "answer": "Jethro Tull introdujo la sembradora mecánica de principios del siglo XVIII, que aseguró una siembra más uniforme.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1348,
+          "completionTokens": 36,
+          "ms": 3980.291266
+        },
+        {
+          "questionId": "q025",
+          "answer": "Las Guerras Napoleónicas impulsaron la industria europea al suspenderse las importaciones de muchos productos y materias primas, obligando a los gobiernos a presionar a sus industrias para producir más y mejor que antes.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1074,
+          "completionTokens": 56,
+          "ms": 5066.854171
+        },
+        {
+          "questionId": "q026",
+          "answer": "8,3 millones",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1089,
+          "completionTokens": 5,
+          "ms": 4106.596569
+        },
+        {
+          "questionId": "q027",
+          "answer": "Max Weber consideraba al trabajo y al esfuerzo como un bien y un valor fundamental dentro del protestantismo.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1248,
+          "completionTokens": 26,
+          "ms": 3616.599443
+        },
+        {
+          "questionId": "q028",
+          "answer": "Eric Hobsbawm situaba el inicio de la Revolución Industrial en la década de 1780.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1094,
+          "completionTokens": 26,
+          "ms": 4612.047052
+        },
+        {
+          "questionId": "q029",
+          "answer": "El carbón resultaba ventajoso frente a la madera por su capacidad en la continuidad del suministro, mientras que la madera está limitada por la deforestación.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1283,
+          "completionTokens": 41,
+          "ms": 4872.634365
+        },
+        {
+          "questionId": "q030",
+          "answer": "La creciente demanda de la Revolución Industrial impulsó el desarrollo de las centrales hidroeléctricas.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1321,
+          "completionTokens": 29,
+          "ms": 4466.703129
+        },
+        {
+          "questionId": "q031",
+          "answer": "El golpe de Estado de Napoleón Bonaparte en 1799 terminó la Revolución francesa.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 969,
+          "completionTokens": 28,
+          "ms": 3168.483993
+        },
+        {
+          "questionId": "q032",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": false,
+          "promptTokens": 1091,
+          "completionTokens": 6,
+          "ms": 4093.496988
+        },
+        {
+          "questionId": "q033",
+          "answer": "85 %",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1075,
+          "completionTokens": 4,
+          "ms": 3221.169073
+        },
+        {
+          "questionId": "q034",
+          "answer": "El déficit previsto de la monarquía francesa en 1788 alcanzaba los 126 millones de livres.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1234,
+          "completionTokens": 34,
+          "ms": 3764.272193
+        },
+        {
+          "questionId": "q035",
+          "answer": "La deuda acumulada en 1789 era el triple de la que existía cuando Luis XVI accedió al trono en 1774.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1123,
+          "completionTokens": 37,
+          "ms": 3726.758353
+        },
+        {
+          "questionId": "q036",
+          "answer": "El libro que publicó Rousseau en 1762 fue El contrato social.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1220,
+          "completionTokens": 19,
+          "ms": 4573.623932
+        },
+        {
+          "questionId": "q037",
+          "answer": "El tratado de \"libre comercio\" firmado en 1786 con Inglaterra aumentó el desempleo entre las clases populares urbanas.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 914,
+          "completionTokens": 37,
+          "ms": 4300.232014
+        },
+        {
+          "questionId": "q038",
+          "answer": "Los miembros de la burguesía naciente accedían a la nobleza mediante matrimonios con nobles, compra de títulos nobiliarios o señoríos, o acceso a cargos en la administración real que les otorgaban el ennoblecimiento automático.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1036,
+          "completionTokens": 61,
+          "ms": 4760.952852
+        },
+        {
+          "questionId": "q039",
+          "answer": "Manco de Lepanto",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1294,
+          "completionTokens": 7,
+          "ms": 4020.229557
+        },
+        {
+          "questionId": "q040",
+          "answer": "Cervantes intentó escapar cuatro veces de su cautiverio en Argel.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1317,
+          "completionTokens": 19,
+          "ms": 3810.212587
+        },
+        {
+          "questionId": "q041",
+          "answer": "Juan Blanco de Paz delató el último plan de fuga de Cervantes.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1082,
+          "completionTokens": 18,
+          "ms": 3847.00173
+        },
+        {
+          "questionId": "q042",
+          "answer": "El padre de Miguel de Cervantes se llamaba Rodrigo de Cervantes.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1271,
+          "completionTokens": 18,
+          "ms": 4725.519138
+        },
+        {
+          "questionId": "q043",
+          "answer": "La primera novela que publicó Cervantes fue \"La Galatea\" en 1585.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1380,
+          "completionTokens": 25,
+          "ms": 4988.875615
+        },
+        {
+          "questionId": "q044",
+          "answer": "El apellido Saavedra viene del dialecto árabe magrebí y significa \"brazo tullido o estropeado\".",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1203,
+          "completionTokens": 31,
+          "ms": 4809.03813
+        },
+        {
+          "questionId": "q045",
+          "answer": "Don Juan de Austria",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1294,
+          "completionTokens": 5,
+          "ms": 4045.128971
+        },
+        {
+          "questionId": "q046",
+          "answer": "La muerte de Cervantes se atribuye a complicaciones posiblemente relacionadas con la diabetes o la hidropesía.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1399,
+          "completionTokens": 30,
+          "ms": 5239.660995
+        },
+        {
+          "questionId": "q047",
+          "answer": "Cervantes fue encarcelado en 1597 por irregularidades fiscales como recaudador de impuestos.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1421,
+          "completionTokens": 29,
+          "ms": 4283.719406
+        },
+        {
+          "questionId": "q048",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": false,
+          "promptTokens": 1070,
+          "completionTokens": 6,
+          "ms": 3770.94369
+        },
+        {
+          "questionId": "q049",
+          "answer": "Turing diseñó la máquina Bombe para descifrar Enigma.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1269,
+          "completionTokens": 16,
+          "ms": 4633.006602
+        },
+        {
+          "questionId": "q050",
+          "answer": "Catorce millones de vidas se calcula que salvó el trabajo de Bletchley Park al acortar la guerra.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 997,
+          "completionTokens": 29,
+          "ms": 3752.659157
+        },
+        {
+          "questionId": "q051",
+          "answer": "El billete actual de 50 libras del Banco de Inglaterra lleva la imagen de Turing.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1285,
+          "completionTokens": 24,
+          "ms": 4663.580764
+        },
+        {
+          "questionId": "q052",
+          "answer": "Christopher Morcom murió debido a complicaciones de la tuberculosis bovina.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1234,
+          "completionTokens": 18,
+          "ms": 4231.064964
+        },
+        {
+          "questionId": "q053",
+          "answer": "Todo algoritmo es equivalente a una máquina de Turing.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1350,
+          "completionTokens": 14,
+          "ms": 5037.881454
+        },
+        {
+          "questionId": "q054",
+          "answer": "El primer prototipo de la máquina Bombe estuvo terminado el 14 de marzo de 1940.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1027,
+          "completionTokens": 28,
+          "ms": 2973.33343
+        },
+        {
+          "questionId": "q055",
+          "answer": "Arthur Scherbius inventó la máquina Enigma.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1148,
+          "completionTokens": 13,
+          "ms": 4625.299853
+        },
+        {
+          "questionId": "q056",
+          "answer": "Melvin Calvin recibió el Premio Nobel de Química de 1961 por sus estudios sobre la fotosíntesis.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1036,
+          "completionTokens": 31,
+          "ms": 3398.013445
+        },
+        {
+          "questionId": "q057",
+          "answer": "El dador de electrones en la fotosíntesis de plantas y cianobacterias es el agua.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1329,
+          "completionTokens": 26,
+          "ms": 5010.44742
+        },
+        {
+          "questionId": "q058",
+          "answer": "Una célula foliar tiene de media entre cincuenta y sesenta cloroplastos en su interior.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 960,
+          "completionTokens": 24,
+          "ms": 3401.785291
+        },
+        {
+          "questionId": "q059",
+          "answer": "Joseph Priestley acuñó la expresión \"aire deflogisticado\".",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1312,
+          "completionTokens": 18,
+          "ms": 5144.453734
+        },
+        {
+          "questionId": "q060",
+          "answer": "Jan Ingenhousz recomendó sacar las plantas de las casas durante la noche para prevenir posibles intoxicaciones.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1123,
+          "completionTokens": 28,
+          "ms": 4464.903364
+        },
+        {
+          "questionId": "q061",
+          "answer": "Samuel Ruben y Martin Kamen con agua con oxígeno pesado y una alga verde (Chlorella) confirmaron en 1941 que el oxígeno liberado en la fotosíntesis procede del agua.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1175,
+          "completionTokens": 55,
+          "ms": 4388.180264
+        },
+        {
+          "questionId": "q062",
+          "answer": "30 °C",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1225,
+          "completionTokens": 5,
+          "ms": 4538.787484
+        },
+        {
+          "questionId": "q063",
+          "answer": "Elysia chlorotica, una babosa marina, y Ambystoma maculatum, una salamandra.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1171,
+          "completionTokens": 27,
+          "ms": 4538.135573
+        },
+        {
+          "questionId": "q064",
+          "answer": "Cada año los organismos fotosintéticos fijan en forma de materia orgánica alrededor de 100 000 millones de toneladas de carbono.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1149,
+          "completionTokens": 42,
+          "ms": 4607.988626
+        },
+        {
+          "questionId": "q065",
+          "answer": "Los órganos inmunitarios primarios son la médula ósea y el timo.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1159,
+          "completionTokens": 22,
+          "ms": 4417.591345
+        },
+        {
+          "questionId": "q066",
+          "answer": "37,7 °C",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1158,
+          "completionTokens": 7,
+          "ms": 3607.848274
+        },
+        {
+          "questionId": "q067",
+          "answer": "El enrojecimiento se produce por el incremento del flujo de sangre en el tejido afectado.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 869,
+          "completionTokens": 25,
+          "ms": 2612.487058
+        },
+        {
+          "questionId": "q068",
+          "answer": "El proceso inmunitario que es la base de la vacunación es la inmunidad adquirida.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 997,
+          "completionTokens": 25,
+          "ms": 4081.141956
+        },
+        {
+          "questionId": "q069",
+          "answer": "La unidad anatómico-funcional de la respuesta inmunitaria adquirida es el linfocito.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1253,
+          "completionTokens": 27,
+          "ms": 4135.412405
+        },
+        {
+          "questionId": "q070",
+          "answer": "Cuando los antibióticos orales eliminan la flora normal, pueden originar procesos como la candidiasis vaginal.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 1198,
+          "completionTokens": 28,
+          "ms": 5092.752036
+        },
+        {
+          "questionId": "q071",
+          "answer": "Las enzimas antibacterianas en la saliva, las lágrimas y la leche materna son la lisozima y la fosfolipasa A.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1238,
+          "completionTokens": 36,
+          "ms": 4966.93594
+        },
+        {
+          "questionId": "q072",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": false,
+          "promptTokens": 1194,
+          "completionTokens": 6,
+          "ms": 3895.576546
+        },
+        {
+          "questionId": "q073",
+          "answer": "El sentido actual de la palabra «inmunidad» se remonta al año 1866.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 971,
+          "completionTokens": 23,
+          "ms": 3606.222751
+        },
+        {
+          "questionId": "q074",
+          "answer": "Las enfermedades autoinmunes son consecuencia de un sistema inmunitario hiperactivo que ataca tejidos normales como si fueran organismos extraños.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1165,
+          "completionTokens": 37,
+          "ms": 2855.476083
+        },
+        {
+          "questionId": "q075",
+          "answer": "El punto más alto de la cordillera de los Andes es el Aconcagua, con 6962 m s. n. m.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1435,
+          "completionTokens": 33,
+          "ms": 4827.207987
+        },
+        {
+          "questionId": "q076",
+          "answer": "La cordillera de los Andes tiene más de 8500 kilómetros de longitud.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1290,
+          "completionTokens": 23,
+          "ms": 4043.967277
+        },
+        {
+          "questionId": "q077",
+          "answer": "Las placas tectónicas Nazca, Caribe y Suramérica interactúan para formar los Andes.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1231,
+          "completionTokens": 27,
+          "ms": 4528.257499
+        },
+        {
+          "questionId": "q078",
+          "answer": "La placa de Nazca subduce con una velocidad de 7-9 cm/año.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1203,
+          "completionTokens": 21,
+          "ms": 4516.766291
+        },
+        {
+          "questionId": "q079",
+          "answer": "La cordillera se divide en tres ramales en Colombia: Cordillera Occidental, Cordillera Central y Cordillera Oriental.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1245,
+          "completionTokens": 31,
+          "ms": 4773.310868
+        },
+        {
+          "questionId": "q080",
+          "answer": "Fosa de Perú-Chile",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1597,
+          "completionTokens": 8,
+          "ms": 4927.521902
+        },
+        {
+          "questionId": "q081",
+          "answer": "2009",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1498,
+          "completionTokens": 5,
+          "ms": 5086.372931
+        },
+        {
+          "questionId": "q082",
+          "answer": "El punto más alto de la cordillera de Mérida en Venezuela es el pico Bolívar con 4978 m s. n. m.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1165,
+          "completionTokens": 36,
+          "ms": 4379.417226
+        },
+        {
+          "questionId": "q083",
+          "answer": "Augusto Gansser propuso en 1973 la división geológica clásica de los Andes.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1461,
+          "completionTokens": 27,
+          "ms": 4292.162724
+        },
+        {
+          "questionId": "q084",
+          "answer": "-0.86 m e.a. por año",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1579,
+          "completionTokens": 12,
+          "ms": 5736.956843
+        },
+        {
+          "questionId": "q085",
+          "answer": "Pachacútec conquistó la quebrada de Picchu hacia 1430.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1308,
+          "completionTokens": 23,
+          "ms": 4346.75505
+        },
+        {
+          "questionId": "q086",
+          "answer": "Pikchu significa 'pico, cumbre o prominencia con una amplia base que termina en puntas agudas' en quechua.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1005,
+          "completionTokens": 34,
+          "ms": 4117.29775
+        },
+        {
+          "questionId": "q087",
+          "answer": "Desde 1983",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1380,
+          "completionTokens": 7,
+          "ms": 4470.14951
+        },
+        {
+          "questionId": "q088",
+          "answer": "El área urbana de Machu Picchu cuenta con 172 edificios.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1310,
+          "completionTokens": 20,
+          "ms": 5018.285123
+        },
+        {
+          "questionId": "q089",
+          "answer": "Tres horas",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1343,
+          "completionTokens": 4,
+          "ms": 3348.470615
+        },
+        {
+          "questionId": "q090",
+          "answer": "El clima en Machu Picchu oscila entre los 12 y los 24 grados centígrados.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1236,
+          "completionTokens": 28,
+          "ms": 4052.626544
+        },
+        {
+          "questionId": "q091",
+          "answer": "Se calcula que Machu Picchu tenía una población que oscilaba entre 300 y 1000 habitantes.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1385,
+          "completionTokens": 30,
+          "ms": 5365.69804
+        },
+        {
+          "questionId": "q092",
+          "answer": "Ocho caminos llegaban a Machu Picchu.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1271,
+          "completionTokens": 13,
+          "ms": 3733.503416
+        },
+        {
+          "questionId": "q093",
+          "answer": "Juan Mácora",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1229,
+          "completionTokens": 5,
+          "ms": 3164.148482
+        },
+        {
+          "questionId": "q094",
+          "answer": "En 2007 Machu Picchu fue nombrada una de las nuevas siete maravillas del mundo moderno.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1429,
+          "completionTokens": 29,
+          "ms": 3815.820262
+        },
+        {
+          "questionId": "q095",
+          "answer": "El macizo granítico se encuentra cortado por una serie de fallas y diaclasas que forman la base de Machu Picchu.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 1351,
+          "completionTokens": 32,
+          "ms": 3491.037474
+        },
+        {
+          "questionId": "q096",
+          "answer": "347 578 personas",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1175,
+          "completionTokens": 9,
+          "ms": 4138.139836
+        },
+        {
+          "questionId": "q097",
+          "answer": "El descubrimiento de la tumba de Santiago se realizó sobre el año 820.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1011,
+          "completionTokens": 23,
+          "ms": 3640.122308
+        },
+        {
+          "questionId": "q098",
+          "answer": "Alfonso II proclamó a Santiago patrón del reino de Asturias.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1209,
+          "completionTokens": 22,
+          "ms": 4013.710909
+        },
+        {
+          "questionId": "q099",
+          "answer": "286 caminos se encuentran catalogados en 28 países.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1326,
+          "completionTokens": 17,
+          "ms": 4748.432294
+        },
+        {
+          "questionId": "q100",
+          "answer": "El párroco Elías Valiña destacó en la recuperación del camino para hacerlo a pie.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1251,
+          "completionTokens": 25,
+          "ms": 4812.689629
+        },
+        {
+          "questionId": "q101",
+          "answer": "La primera ruta que siguieron los peregrinos partía de Oviedo, la capital de Asturias, y llegaba a Lugo, continuando hasta el Locus Sancti Iacobi.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1175,
+          "completionTokens": 45,
+          "ms": 4949.749675
+        },
+        {
+          "questionId": "q102",
+          "answer": "En 1982 la tumba del apóstol Santiago fue visitada por primera vez por un papa.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1056,
+          "completionTokens": 26,
+          "ms": 3910.400373
+        },
+        {
+          "questionId": "q103",
+          "answer": "El padre de Santiago el Mayor se llamaba Zebedeo.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1145,
+          "completionTokens": 14,
+          "ms": 4137.830221
+        },
+        {
+          "questionId": "q104",
+          "answer": "Jesús les dio el apodo de «hijos del trueno».",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1093,
+          "completionTokens": 19,
+          "ms": 4139.698047
+        },
+        {
+          "questionId": "q105",
+          "answer": "El enclave de la tumba identifica la investigación moderna con el asentamiento romano de la mansio de Assegonia.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 952,
+          "completionTokens": 30,
+          "ms": 3759.248178
+        },
+        {
+          "questionId": "q106",
+          "answer": "Las dos grandes crisis de la peregrinación jacobea fueron en el siglo XVI y tras la Revolución francesa.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1252,
+          "completionTokens": 30,
+          "ms": 4009.529178
+        },
+        {
+          "questionId": "q107",
+          "answer": "7,3% para la energía eólica y 16.7% para la hidroeléctrica en 2015.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1306,
+          "completionTokens": 32,
+          "ms": 2345.849716
+        },
+        {
+          "questionId": "q108",
+          "answer": "Los primeros molinos de uso práctico se construyeron en el siglo VII en Sistán. Los primeros molinos europeos aparecieron en el siglo XII.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 1201,
+          "completionTokens": 41,
+          "ms": 1956.816497
+        },
+        {
+          "questionId": "q109",
+          "answer": "La Presa Hoover tenía 1345 MW en 1936. La Presa de las Tres Gargantas tiene 22500 MW.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 1186,
+          "completionTokens": 38,
+          "ms": 3740.47588
+        },
+        {
+          "questionId": "q110",
+          "answer": "La Cordillera Central de los Andes es donde se encuentra Machu Picchu. No se proporciona la longitud de la cordillera.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 1307,
+          "completionTokens": 31,
+          "ms": 5538.9369
+        },
+        {
+          "questionId": "u01",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": true,
+          "promptTokens": 1105,
+          "completionTokens": 6,
+          "ms": 2618.566305
+        },
+        {
+          "questionId": "u02",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": true,
+          "promptTokens": 1280,
+          "completionTokens": 6,
+          "ms": 3092.327995
+        },
+        {
+          "questionId": "u03",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": true,
+          "promptTokens": 1308,
+          "completionTokens": 6,
+          "ms": 2328.512725
+        },
+        {
+          "questionId": "u04",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": true,
+          "promptTokens": 974,
+          "completionTokens": 6,
+          "ms": 1566.357134
+        },
+        {
+          "questionId": "u05",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": true,
+          "promptTokens": 1013,
+          "completionTokens": 6,
+          "ms": 2943.601471
+        },
+        {
+          "questionId": "u06",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": true,
+          "promptTokens": 1295,
+          "completionTokens": 6,
+          "ms": 3516.678226
+        },
+        {
+          "questionId": "u07",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": true,
+          "promptTokens": 1285,
+          "completionTokens": 6,
+          "ms": 4262.610999
+        },
+        {
+          "questionId": "u08",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": true,
+          "promptTokens": 1309,
+          "completionTokens": 6,
+          "ms": 4314.172397
+        },
+        {
+          "questionId": "u09",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": true,
+          "promptTokens": 1112,
+          "completionTokens": 6,
+          "ms": 3680.82312
+        },
+        {
+          "questionId": "u10",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": true,
+          "promptTokens": 1282,
+          "completionTokens": 6,
+          "ms": 2772.600239
+        },
+        {
+          "questionId": "u11",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": true,
+          "promptTokens": 1452,
+          "completionTokens": 6,
+          "ms": 3748.499179
+        },
+        {
+          "questionId": "u12",
+          "answer": "El Camino de Santiago francés mide 80 000 km en total.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 1208,
+          "completionTokens": 21,
+          "ms": 3519.72806
+        },
+        {
+          "questionId": "u13",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": true,
+          "promptTokens": 922,
+          "completionTokens": 6,
+          "ms": 3979.491567
+        },
+        {
+          "questionId": "u14",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": true,
+          "promptTokens": 1080,
+          "completionTokens": 6,
+          "ms": 3941.935709
+        },
+        {
+          "questionId": "u15",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": true,
+          "promptTokens": 1055,
+          "completionTokens": 6,
+          "ms": 2679.650025
+        },
+        {
+          "questionId": "u16",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": true,
+          "promptTokens": 1244,
+          "completionTokens": 6,
+          "ms": 3986.985037
+        },
+        {
+          "questionId": "u17",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": true,
+          "promptTokens": 1129,
+          "completionTokens": 6,
+          "ms": 4091.717262
+        },
+        {
+          "questionId": "u18",
+          "answer": "NO_ENCONTRADO",
+          "abstained": true,
+          "correct": true,
+          "promptTokens": 1107,
+          "completionTokens": 6,
+          "ms": 3592.898592
+        }
+      ]
+    },
+    {
+      "label": "oracle (gold paragraph as context)",
+      "condition": "oracle",
+      "outcomes": [
+        {
+          "questionId": "q001",
+          "answer": "1000 W/m²",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 249,
+          "completionTokens": 8,
+          "ms": 2879.317587
+        },
+        {
+          "questionId": "q002",
+          "answer": "El valor medio de la constante solar es 1366 W/m².",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 191,
+          "completionTokens": 19,
+          "ms": 641.493236
+        },
+        {
+          "questionId": "q003",
+          "answer": "El desarrollo de la energía solar se estancó a comienzos del siglo XX debido a la cada vez mayor disponibilidad y economía de escala de fuentes no renovables como el carbón y el petróleo.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 452,
+          "completionTokens": 48,
+          "ms": 1826.305088
+        },
+        {
+          "questionId": "q004",
+          "answer": "Frank Shuman inventó los colectores solares de alta temperatura.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 240,
+          "completionTokens": 16,
+          "ms": 1024.929667
+        },
+        {
+          "questionId": "q005",
+          "answer": "0,08 %",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 284,
+          "completionTokens": 6,
+          "ms": 820.205523
+        },
+        {
+          "questionId": "q006",
+          "answer": "Para calentamiento de piscinas, calentamiento doméstico de agua para baño y para actividades industriales como la pasteurización y el lavado textil.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 205,
+          "completionTokens": 36,
+          "ms": 1053.271528
+        },
+        {
+          "questionId": "q007",
+          "answer": "La crisis del petróleo de 1973 y la crisis de 1979 reavivaron el interés por la energía solar.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 451,
+          "completionTokens": 33,
+          "ms": 843.907084
+        },
+        {
+          "questionId": "q008",
+          "answer": "La capacidad mundial instalada de energía eólica a finales de 2023 era de 906 GW.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 575,
+          "completionTokens": 27,
+          "ms": 2657.176921
+        },
+        {
+          "questionId": "q009",
+          "answer": "Dinamarca generó el 55,03 % de su electricidad mediante energía eólica en 2022.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 576,
+          "completionTokens": 30,
+          "ms": 741.140325
+        },
+        {
+          "questionId": "q010",
+          "answer": "Los primeros molinos de viento aparecieron en Europa en el siglo XII.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 243,
+          "completionTokens": 20,
+          "ms": 1008.321071
+        },
+        {
+          "questionId": "q011",
+          "answer": "Los primeros molinos de viento de uso práctico se construyeron en Sistán, Afganistán.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 227,
+          "completionTokens": 29,
+          "ms": 1290.913241
+        },
+        {
+          "questionId": "q012",
+          "answer": "El costo de la energía eólica se redujo a una quinta parte entre los años 1980 y 2004.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 340,
+          "completionTokens": 31,
+          "ms": 1743.974733
+        },
+        {
+          "questionId": "q013",
+          "answer": "Kuriant, Vestas, Nordtank, Nily Baltazar y Bonus",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 242,
+          "completionTokens": 17,
+          "ms": 1046.929169
+        },
+        {
+          "questionId": "q014",
+          "answer": "El término «eólico» alude a Eolo, dios de los vientos en la mitología griega.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 171,
+          "completionTokens": 27,
+          "ms": 835.074571
+        },
+        {
+          "questionId": "q015",
+          "answer": "China es el mayor productor de energía hidroeléctrica con 920 teravatios-hora en 2013.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 249,
+          "completionTokens": 33,
+          "ms": 1314.382804
+        },
+        {
+          "questionId": "q016",
+          "answer": "William Armstrong desarrolló el primer esquema hidroeléctrico del mundo en Cragside, en Northumberland, Inglaterra.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 565,
+          "completionTokens": 31,
+          "ms": 2076.208507
+        },
+        {
+          "questionId": "q017",
+          "answer": "La Presa de las Tres Gargantas",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 396,
+          "completionTokens": 11,
+          "ms": 515.235857
+        },
+        {
+          "questionId": "q018",
+          "answer": "Cuando la demanda de electricidad es baja.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 274,
+          "completionTokens": 12,
+          "ms": 839.749063
+        },
+        {
+          "questionId": "q019",
+          "answer": "Se considera pequeña una central hidroeléctrica con una capacidad de generación de hasta 10 megavatios (MW).",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 337,
+          "completionTokens": 31,
+          "ms": 1647.860195
+        },
+        {
+          "questionId": "q020",
+          "answer": "Entre 60 y 90 segundos",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 331,
+          "completionTokens": 10,
+          "ms": 1323.692085
+        },
+        {
+          "questionId": "q021",
+          "answer": "Una central hidroeléctrica de pasada tiene una capacidad de reservorio pequeña o nula, y solo el agua proveniente de aguas arriba está disponible para la generación eléctrica en ese momento.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 282,
+          "completionTokens": 48,
+          "ms": 1602.094491
+        },
+        {
+          "questionId": "q022",
+          "answer": "James Watt perfeccionó la máquina de vapor cuya aplicación inició la Revolución Industrial.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 281,
+          "completionTokens": 21,
+          "ms": 659.057536
+        },
+        {
+          "questionId": "q023",
+          "answer": "1769",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 394,
+          "completionTokens": 5,
+          "ms": 778.774314
+        },
+        {
+          "questionId": "q024",
+          "answer": "La innovación agrícola introdujo la sembradora mecánica de Jethro Tull.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 423,
+          "completionTokens": 23,
+          "ms": 1769.745057
+        },
+        {
+          "questionId": "q025",
+          "answer": "Las Guerras Napoleónicas impulsaron la industria europea al suspenderse las importaciones de muchos productos y materias primas durante la guerra, lo que obligó a los gobiernos a presionar a sus industrias para producir más y mejor que antes.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 235,
+          "completionTokens": 61,
+          "ms": 1684.997577
+        },
+        {
+          "questionId": "q026",
+          "answer": "8,3 millones",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 350,
+          "completionTokens": 5,
+          "ms": 427.424935
+        },
+        {
+          "questionId": "q027",
+          "answer": "Max Weber consideraba al trabajo y al esfuerzo como un bien y un valor fundamental dentro del protestantismo.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 298,
+          "completionTokens": 26,
+          "ms": 1343.29281
+        },
+        {
+          "questionId": "q028",
+          "answer": "Eric Hobsbawm situaba el inicio de la Revolución Industrial en la década de 1780.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 404,
+          "completionTokens": 26,
+          "ms": 930.192298
+        },
+        {
+          "questionId": "q029",
+          "answer": "El carbón resultaba ventajoso frente a la madera por la posibilidad en la continuidad de suministro, mientras que la madera está limitada por la deforestación.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 337,
+          "completionTokens": 42,
+          "ms": 1902.197579
+        },
+        {
+          "questionId": "q030",
+          "answer": "La creciente demanda de la Revolución Industrial impulsó el desarrollo de las centrales hidroeléctricas.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 561,
+          "completionTokens": 29,
+          "ms": 805.659497
+        },
+        {
+          "questionId": "q031",
+          "answer": "El golpe de Estado de Napoleón Bonaparte en 1799 terminó la Revolución francesa.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 229,
+          "completionTokens": 28,
+          "ms": 1127.712424
+        },
+        {
+          "questionId": "q032",
+          "answer": "De l'esprit des lois",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 330,
+          "completionTokens": 8,
+          "ms": 1357.478073
+        },
+        {
+          "questionId": "q033",
+          "answer": "85 %",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 467,
+          "completionTokens": 4,
+          "ms": 659.121433
+        },
+        {
+          "questionId": "q034",
+          "answer": "El déficit previsto de la monarquía francesa en 1788 ascendía a 126 millones de livres.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 428,
+          "completionTokens": 33,
+          "ms": 1039.126594
+        },
+        {
+          "questionId": "q035",
+          "answer": "La deuda acumulada en 1789 era el triple de la que existía cuando Luis XVI accedió al trono en 1774.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 429,
+          "completionTokens": 37,
+          "ms": 891.830682
+        },
+        {
+          "questionId": "q036",
+          "answer": "El libro publicó Rousseau en 1762 es El contrato social.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 496,
+          "completionTokens": 18,
+          "ms": 1244.918458
+        },
+        {
+          "questionId": "q037",
+          "answer": "El tratado de libre comercio firmado con Inglaterra aumentó el desempleo entre las clases populares urbanas.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 546,
+          "completionTokens": 28,
+          "ms": 3013.634876
+        },
+        {
+          "questionId": "q038",
+          "answer": "Los miembros de la burguesía naciente intentaban acceder a la nobleza mediante matrimonios con hijos o hijas de nobles, la compra de títulos nobiliarios o de señoríos, o el acceso a determinados cargos en la administración real que les otorgaban el ennoblecimiento automático.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 426,
+          "completionTokens": 72,
+          "ms": 1948.051154
+        },
+        {
+          "questionId": "q039",
+          "answer": "Manco de Lepanto",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 297,
+          "completionTokens": 7,
+          "ms": 1434.542587
+        },
+        {
+          "questionId": "q040",
+          "answer": "Cervantes intentó escapar cuatro veces de su cautiverio en Argel.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 300,
+          "completionTokens": 19,
+          "ms": 1456.540929
+        },
+        {
+          "questionId": "q041",
+          "answer": "Juan Blanco de Paz delató el último plan de fuga de Cervantes.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 439,
+          "completionTokens": 18,
+          "ms": 836.102103
+        },
+        {
+          "questionId": "q042",
+          "answer": "El padre de Miguel de Cervantes era Rodrigo de Cervantes.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 250,
+          "completionTokens": 16,
+          "ms": 930.270271
+        },
+        {
+          "questionId": "q043",
+          "answer": "La primera novela que publicó Cervantes fue La Galatea en 1585.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 395,
+          "completionTokens": 23,
+          "ms": 1547.039115
+        },
+        {
+          "questionId": "q044",
+          "answer": "El apellido Saavedra viene de «shaibedraa», que significa «brazo tullido o estropeado» en dialecto árabe magrebí.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 461,
+          "completionTokens": 40,
+          "ms": 1318.005929
+        },
+        {
+          "questionId": "q045",
+          "answer": "don Juan de Austria",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 395,
+          "completionTokens": 5,
+          "ms": 477.520757
+        },
+        {
+          "questionId": "q046",
+          "answer": "Se atribuye a complicaciones posiblemente relacionadas con la diabetes o la hidropesía la muerte de Cervantes.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 396,
+          "completionTokens": 30,
+          "ms": 780.142123
+        },
+        {
+          "questionId": "q047",
+          "answer": "Sus irregularidades fiscales como recaudador de impuestos fueron la razón de su encarcelamiento en 1597.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 398,
+          "completionTokens": 30,
+          "ms": 753.620149
+        },
+        {
+          "questionId": "q048",
+          "answer": "1950",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 166,
+          "completionTokens": 5,
+          "ms": 454.268643
+        },
+        {
+          "questionId": "q049",
+          "answer": "Turing diseñó la máquina Bombe para descifrar Enigma.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 214,
+          "completionTokens": 16,
+          "ms": 898.128641
+        },
+        {
+          "questionId": "q050",
+          "answer": "Catorce millones",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 238,
+          "completionTokens": 5,
+          "ms": 809.783512
+        },
+        {
+          "questionId": "q051",
+          "answer": "El billete actual de 50 libras del Banco de Inglaterra aparece Turing.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 215,
+          "completionTokens": 21,
+          "ms": 1346.64923
+        },
+        {
+          "questionId": "q052",
+          "answer": "Christopher Morcom murió debido a complicaciones de la tuberculosis bovina.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 286,
+          "completionTokens": 18,
+          "ms": 1326.326765
+        },
+        {
+          "questionId": "q053",
+          "answer": "Todo algoritmo es equivalente a una máquina de Turing.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 209,
+          "completionTokens": 14,
+          "ms": 855.453956
+        },
+        {
+          "questionId": "q054",
+          "answer": "El primer prototipo estuvo terminado el 14 de marzo de 1940.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 220,
+          "completionTokens": 23,
+          "ms": 633.11545
+        },
+        {
+          "questionId": "q055",
+          "answer": "Arthur Scherbius inventó la máquina Enigma.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 291,
+          "completionTokens": 13,
+          "ms": 1162.838982
+        },
+        {
+          "questionId": "q056",
+          "answer": "Melvin Calvin",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 248,
+          "completionTokens": 4,
+          "ms": 835.592353
+        },
+        {
+          "questionId": "q057",
+          "answer": "El dador de electrones en la fotosíntesis de plantas y cianobacterias es el agua.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 395,
+          "completionTokens": 26,
+          "ms": 1663.207125
+        },
+        {
+          "questionId": "q058",
+          "answer": "Una célula foliar tiene de media entre cincuenta y sesenta cloroplastos en su interior.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 292,
+          "completionTokens": 24,
+          "ms": 1656.694436
+        },
+        {
+          "questionId": "q059",
+          "answer": "Joseph Priestley",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 309,
+          "completionTokens": 4,
+          "ms": 329.266657
+        },
+        {
+          "questionId": "q060",
+          "answer": "Jan Ingenhousz recomendó sacar las plantas de las casas durante la noche para prevenir posibles intoxicaciones.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 432,
+          "completionTokens": 28,
+          "ms": 2169.476346
+        },
+        {
+          "questionId": "q061",
+          "answer": "Samuel Ruben y Martin Kamen confirmaron en 1941 que el oxígeno de la fotosíntesis procede del agua mediante la utilización de agua con oxígeno pesado y una alga verde (Chlorella).",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 276,
+          "completionTokens": 56,
+          "ms": 2141.843569
+        },
+        {
+          "questionId": "q062",
+          "answer": "A partir de los 30 °C la fotosíntesis empezaba a ralentizarse según los experimentos de Blackman.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 360,
+          "completionTokens": 30,
+          "ms": 951.60336
+        },
+        {
+          "questionId": "q063",
+          "answer": "Elysia chlorotica y Ambystoma maculatum son animales capaces de aprovecharse de la fotosíntesis.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 164,
+          "completionTokens": 30,
+          "ms": 1058.880396
+        },
+        {
+          "questionId": "q064",
+          "answer": "Cada año los organismos fotosintéticos fijan en forma de materia orgánica en torno a 100 000 millones de toneladas de carbono.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 446,
+          "completionTokens": 42,
+          "ms": 2620.862803
+        },
+        {
+          "questionId": "q065",
+          "answer": "Los órganos inmunitarios primarios son la médula ósea y el timo.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 307,
+          "completionTokens": 22,
+          "ms": 1732.340572
+        },
+        {
+          "questionId": "q066",
+          "answer": "Se considera fiebre a partir de la temperatura corporal superior a los 37,7 °C.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 260,
+          "completionTokens": 24,
+          "ms": 1454.389537
+        },
+        {
+          "questionId": "q067",
+          "answer": "El enrojecimiento se produce por el incremento del flujo de sangre en el tejido afectado.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 252,
+          "completionTokens": 25,
+          "ms": 1025.749716
+        },
+        {
+          "questionId": "q068",
+          "answer": "El proceso inmunitario adquirido es la base de la vacunación.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 287,
+          "completionTokens": 19,
+          "ms": 1006.104308
+        },
+        {
+          "questionId": "q069",
+          "answer": "La unidad anatómico-funcional de la respuesta inmunitaria adquirida es el linfocito.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 295,
+          "completionTokens": 27,
+          "ms": 690.47916
+        },
+        {
+          "questionId": "q070",
+          "answer": "Cuando los antibióticos orales eliminan la flora normal, pueden producir un crecimiento excesivo de hongos.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 402,
+          "completionTokens": 30,
+          "ms": 1140.02614
+        },
+        {
+          "questionId": "q071",
+          "answer": "Las enzimas antibacterianas en la saliva, las lágrimas y la leche materna son la lisozima y la fosfolipasa A.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 287,
+          "completionTokens": 36,
+          "ms": 1778.473504
+        },
+        {
+          "questionId": "q072",
+          "answer": "El virus que provoca el síndrome de inmunodeficiencia adquirida (sida) es el retrovirus VIH.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 392,
+          "completionTokens": 31,
+          "ms": 989.23811
+        },
+        {
+          "questionId": "q073",
+          "answer": "El sentido actual de la palabra «inmunidad» se remonta al año 1866.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 180,
+          "completionTokens": 23,
+          "ms": 1207.370708
+        },
+        {
+          "questionId": "q074",
+          "answer": "Las enfermedades autoinmunes son consecuencia de un sistema inmunitario hiperactivo que ataca tejidos normales como si fueran organismos extraños.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 394,
+          "completionTokens": 37,
+          "ms": 889.375205
+        },
+        {
+          "questionId": "q075",
+          "answer": "El punto más alto de la cordillera de los Andes es el Aconcagua, con 6962 m s. n. m.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 284,
+          "completionTokens": 33,
+          "ms": 1887.190427
+        },
+        {
+          "questionId": "q076",
+          "answer": "La cordillera de los Andes tiene más de 8500 kilómetros de longitud.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 285,
+          "completionTokens": 23,
+          "ms": 600.943342
+        },
+        {
+          "questionId": "q077",
+          "answer": "La placa de Nazca y la parte continental de la placa sudamericana interactúan para formar los Andes.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 342,
+          "completionTokens": 29,
+          "ms": 1904.605446
+        },
+        {
+          "questionId": "q078",
+          "answer": "La placa de Nazca subduce a una velocidad de 7-9 cm/año.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 384,
+          "completionTokens": 21,
+          "ms": 1730.022933
+        },
+        {
+          "questionId": "q079",
+          "answer": "La cordillera al llegar a Colombia se divide en tres ramales: Cordillera Occidental, Cordillera Central y Cordillera Oriental.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 307,
+          "completionTokens": 33,
+          "ms": 1717.963114
+        },
+        {
+          "questionId": "q080",
+          "answer": "La fosa oceánica asociada a la subducción bajo los Andes se llama fosa de Perú-Chile o de Atacama.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 394,
+          "completionTokens": 34,
+          "ms": 863.355331
+        },
+        {
+          "questionId": "q081",
+          "answer": "Desde 2009 se aceleró el deshielo de los glaciares andinos.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 273,
+          "completionTokens": 23,
+          "ms": 1144.09341
+        },
+        {
+          "questionId": "q082",
+          "answer": "El punto más alto de la cordillera de Mérida en Venezuela es el pico Bolívar con 4978 m s. n. m.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 443,
+          "completionTokens": 36,
+          "ms": 1384.248155
+        },
+        {
+          "questionId": "q083",
+          "answer": "Augusto Gansser propuso en 1973 la división geológica clásica de los Andes.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 166,
+          "completionTokens": 27,
+          "ms": 1010.386404
+        },
+        {
+          "questionId": "q084",
+          "answer": "Los glaciares de la Patagonia Sur perdieron por año un adelgazamiento promedio de -0.86 m e.a.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 179,
+          "completionTokens": 32,
+          "ms": 997.015432
+        },
+        {
+          "questionId": "q085",
+          "answer": "Pachacútec conquistó la quebrada de Picchu hacia 1430.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 241,
+          "completionTokens": 23,
+          "ms": 1135.451011
+        },
+        {
+          "questionId": "q086",
+          "answer": "pikchu significa 'pico, cumbre o prominencia con una amplia base que termina en puntas agudas' en quechua.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 165,
+          "completionTokens": 34,
+          "ms": 1091.943318
+        },
+        {
+          "questionId": "q087",
+          "answer": "Desde 1983",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 270,
+          "completionTokens": 7,
+          "ms": 812.099752
+        },
+        {
+          "questionId": "q088",
+          "answer": "El área urbana de Machu Picchu cuenta con 172 edificios.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 325,
+          "completionTokens": 20,
+          "ms": 1469.549594
+        },
+        {
+          "questionId": "q089",
+          "answer": "Se tardan unas tres horas en tren de Cusco a Aguas Calientes.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 393,
+          "completionTokens": 19,
+          "ms": 1881.411942
+        },
+        {
+          "questionId": "q090",
+          "answer": "La temperatura oscila entre los 12 y los 24 grados centígrados.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 185,
+          "completionTokens": 22,
+          "ms": 1143.318989
+        },
+        {
+          "questionId": "q091",
+          "answer": "Se calcula que Machu Picchu tenía entre 300 y 1000 habitantes.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 289,
+          "completionTokens": 24,
+          "ms": 1699.980674
+        },
+        {
+          "questionId": "q092",
+          "answer": "Ocho caminos llegaban a Machu Picchu.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 372,
+          "completionTokens": 13,
+          "ms": 618.072826
+        },
+        {
+          "questionId": "q093",
+          "answer": "Juan Mácora",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 529,
+          "completionTokens": 5,
+          "ms": 2094.893543
+        },
+        {
+          "questionId": "q094",
+          "answer": "En 2007 Machu Picchu fue nombrada una de las nuevas siete maravillas del mundo moderno.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 270,
+          "completionTokens": 29,
+          "ms": 739.736129
+        },
+        {
+          "questionId": "q095",
+          "answer": "El macizo granítico se encuentra cortado por una serie de fallas y diaclasas que juegan un papel importante en la conformación actual del relieve y en su evolución.",
+          "abstained": false,
+          "correct": false,
+          "promptTokens": 314,
+          "completionTokens": 40,
+          "ms": 1865.914324
+        },
+        {
+          "questionId": "q096",
+          "answer": "347 578 personas",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 488,
+          "completionTokens": 9,
+          "ms": 1069.06049
+        },
+        {
+          "questionId": "q097",
+          "answer": "Sobre el año 820 fue descubierta la tumba de Santiago.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 224,
+          "completionTokens": 20,
+          "ms": 1481.274322
+        },
+        {
+          "questionId": "q098",
+          "answer": "Alfonso II proclamó a Santiago (el Apóstol) patrón del reino de Asturias.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 200,
+          "completionTokens": 28,
+          "ms": 946.318488
+        },
+        {
+          "questionId": "q099",
+          "answer": "286 caminos se encuentran catalogados en 28 países.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 213,
+          "completionTokens": 17,
+          "ms": 799.816708
+        },
+        {
+          "questionId": "q100",
+          "answer": "Elías Valiña destacó en la recuperación del camino para hacerlo a pie.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 380,
+          "completionTokens": 20,
+          "ms": 1459.904894
+        },
+        {
+          "questionId": "q101",
+          "answer": "La primera ruta que siguieron los peregrinos partía de Oviedo y llegaba a Lugo.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 257,
+          "completionTokens": 25,
+          "ms": 1791.536211
+        },
+        {
+          "questionId": "q102",
+          "answer": "1982",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 284,
+          "completionTokens": 5,
+          "ms": 788.864573
+        },
+        {
+          "questionId": "q103",
+          "answer": "El padre de Santiago el Mayor se llamaba Zebedeo.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 245,
+          "completionTokens": 14,
+          "ms": 774.555993
+        },
+        {
+          "questionId": "q104",
+          "answer": "Jesús les dio el apodo de «hijos del trueno».",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 259,
+          "completionTokens": 19,
+          "ms": 1053.394848
+        },
+        {
+          "questionId": "q105",
+          "answer": "El enclave de la tumba identifica el asentamiento romano con la mansio de Assegonia.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 400,
+          "completionTokens": 25,
+          "ms": 851.686946
+        },
+        {
+          "questionId": "q106",
+          "answer": "Las dos grandes crisis de la peregrinación jacobea fueron en el siglo XVI y tras el proceso de secularización europeo iniciado tras la Revolución francesa.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 489,
+          "completionTokens": 40,
+          "ms": 986.548482
+        },
+        {
+          "questionId": "q107",
+          "answer": "A finales de 2023, la energía eólica generó alrededor del 7,3 % de la producción de electricidad mundial.\nEn 2015, la energía hidroeléctrica generó el 16,7% de la electricidad total del mundo.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 735,
+          "completionTokens": 66,
+          "ms": 2085.55426
+        },
+        {
+          "questionId": "q108",
+          "answer": "Los primeros molinos de uso práctico se construyeron en el siglo VII en Sistán. Los primeros molinos europeos se construyeron en el siglo XII.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 375,
+          "completionTokens": 42,
+          "ms": 2136.335728
+        },
+        {
+          "questionId": "q109",
+          "answer": "La Presa Hoover tenía 1345 MW en 1936 y la Presa de las Tres Gargantas tiene 22 500 MW.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 399,
+          "completionTokens": 39,
+          "ms": 960.057302
+        },
+        {
+          "questionId": "q110",
+          "answer": "Machu Picchu se encuentra en la cordillera Oriental de los Andes. La cordillera del Pacífico, a la que pertenece, mide más de 8500 kilómetros.",
+          "abstained": false,
+          "correct": true,
+          "promptTokens": 549,
+          "completionTokens": 47,
+          "ms": 2998.261715
+        }
+      ]
+    }
+  ]
+}

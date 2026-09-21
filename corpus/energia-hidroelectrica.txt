@@ -1,0 +1,114 @@
+La hidroelectricidad es la generación de energía eléctrica producida a partir de la potencia hidráulica. En 2015, la energía hidroeléctrica generó el 16.7% de la electricidad total del mundo y el 70% a través de obras de aducción, canales y túneles de desvío, el agua es conducida por tuberías forzadas desde la presa hasta las hidroturbinas, que giran para generar energía mecánica, la cual es convertida en energía eléctrica por el generador eléctrico rotativo.
+La energía renovable,​ y se esperaba que aumentara alrededor del 77.5% (3.1% cada año)durante los próximos 25 años.
+La energía hidroeléctrica se produce en 150 países, y la región de Asia y el Pacífico generó el 33% de la energía hidroeléctrica mundial en 2013. China es el mayor productor de energía hidroeléctrica con 920  teravatios-hora (1 teravatio-hora= 1 000 000 000 kWh) de producción en 2013, lo que representa el 16.9% del uso doméstico de electricidad.
+El costo de mantenimiento de la hidroelectricidad es relativamente bajo​ por lo que es una fuente competitiva de electricidad renovable. La estación hidroeléctrica no consume agua, a diferencia de las plantas de carbón o gas.​ El costo promedio de la electricidad de una estación hidroeléctrica de más de 10 megavatios es de 3 a 5 centavos de dólar por kilovatio-hora.​ Al disponer de una  presa y un embalse, es una fuente flexible de electricidad, ya que la cantidad producida por la estación se puede cambiar, aumentar o disminuir muy rápidamente, para adaptarse a las demandas cambiantes de energía. Una vez que se construye un complejo hidroeléctrico, el proyecto no produce residuos directos y, en muchos casos, tiene un nivel de producción de gases de efecto invernadero considerablemente más bajo que las plantas de energía que funcionan con combustibles fósiles.​
+
+Historia
+
+La energía hidráulica se ha utilizado desde la antigüedad para moler la harina y realizar otras tareas. A mediados de la década de 1770, el ingeniero francés Bernard Forest de Bélidor publicó Architecture Hydraulique, que describía las máquinas hidráulicas de eje vertical y horizontal. A finales del siglo XIX se desarrolló el generador eléctrico y entonces se pudo acoplar a los sistemas hidráulicos.​ La creciente demanda de la Revolución Industrial también impulsó su desarrollo.​ En 1878, William Armstrong desarrolló el primer esquema hidroeléctrico del mundo en Cragside en Northumberland, Inglaterra. Fue utilizado para alimentar una sola lámpara de arco en su galería de arte.​ La antigua «central eléctrica de Schoelkopf No. 1» cerca de las cataratas del Niágara, en el lado estadounidense, comenzó a producir electricidad en 1881. La primera central hidroeléctrica de  Edison, la planta de Vulcan Street, comenzó a funcionar el 30 de septiembre de 1882 en Appleton, Wisconsin , con una potencia de salida de unos 12,5 kilovatios.​ En 1886 había 45 centrales hidroeléctricas en los Estados Unidos y Canadá. Para 1889 había 200 en los Estados Unidos solamente.​ En 1891 el ingeniero ruso Mikhail Dolivo-Dobrovolsky diseñó la primera central hidroeléctrica trifásica del mundo en Alemania, con una salida de 25 kilovatios, la frecuencia era de 40 Hz.  En 1894 Charles Steinmetz diseñó la primera central hidroeléctrica trifásica de 60 hz y 50 hz en Estados Unidos.
+
+A principios del siglo XX las compañías comerciales estaban construyendo muchas pequeñas centrales hidroeléctricas en las montañas cerca de las áreas metropolitanas. Grenoble, Francia, celebró la Exposición Internacional de Energía Hidroeléctrica y Turismo con más de un millón de visitantes. En 1920, dado que el 40% de la energía producida en los Estados Unidos era hidroeléctrica, la Federal Power Act se promulgó como ley. La Legislación creó la Comisión Federal de Energía para regular las centrales hidroeléctricas en tierra y agua federales. A medida que las centrales eléctricas se hicieron más grandes, sus represas asociadas desarrollaron propósitos adicionales para incluir el control de inundaciones, el riego y la navegación. Fue necesaria una financiación federal para el desarrollo a gran escala y se crearon corporaciones de propiedad federal como Tennessee Valley Authority en 1933 y Bonneville Power Administration en 1937.​ Además, la  Oficina de Reclamación, que había iniciado una serie de proyectos de riego en el oeste de los Estados Unidos a principios del siglo XX, ahora estaba construyendo grandes proyectos hidroeléctricos, como la Presa Hoover de 1928.​ El Cuerpo de Ingenieros del Ejército de EE. UU. también participó en el desarrollo hidroeléctrico y completó la Presa de Bonneville en 1937 y fue reconocido por la Ley de Control de Inundaciones de 1936 como la principal agencia federal de control de inundaciones.​
+Las centrales hidroeléctricas continuaron creciendo a lo largo del siglo XX. La energía hidroeléctrica fue llamada «carbón blanco» por su poder y abundancia.​ La central eléctrica de 1345 MW de la Presa Hoover fue la central hidroeléctrica más grande del mundo en 1936; fue eclipsada por la Presa Grand Coulee de 6809 MW en 1942.​ La  Presa Itaipu se abrió en 1984 en Sudamérica como la más grande, con 14 000 MW, pero fue superada en 2008 por la Presa de las Tres Gargantas en China con 22 500 MW. La hidroelectricidad eventualmente abastecería a algunos países, entre ellos Noruega, República Democrática del Congo, Paraguay y Brasil, con más del 85% de su electricidad. Actualmente, los Estados Unidos tienen más de 2000 centrales hidroeléctricas que suministran el 6.4% de su producción eléctrica total, que es el 49% de su electricidad renovable.​
+
+Potencial futuro
+El potencial técnico para el crecimiento de la energía hidroeléctrica en todo el mundo es, 71% en Europa, 75% en América del Norte, 79% en América del Sur, 95% en África, 95% en Oriente Medio, 82% en Asia Pacífico. Las realidades políticas de los nuevos embalses en los países occidentales, las limitaciones económicas en el tercer mundo y la falta de un sistema de transmisión en áreas subdesarrolladas, dan como resultado la posibilidad de desarrollar el 25% del potencial restante antes de 2050, y la mayor parte está en el Área de Asia Pacífico.​ Algunos países están altamente desarrollados y tienen muy poco espacio para crecer, Suiza 12% y México 20%.
+
+Métodos de generación
+
+Presas convencionales
+
+La mayor parte de la energía hidroeléctrica proviene de la energía potencial de las aguas embalsadas que impulsan una turbina hidráulica o hidroturbina acoplada a un generador eléctrico. La potencia extraída del agua depende del volumen y de la diferencia de altura entre la fuente y la salida del agua. Esta diferencia de altura se llama cabezal hidráulico. Un tubo grande o compuerta, conduce el agua desde el depósito hasta la hidroturbina.​
+
+Almacenamiento por bombeo
+
+Este método produce electricidad para satisfacer los picos de demanda al mover el agua entre embalses a diferentes cotas. En momentos de baja demanda eléctrica, el exceso de capacidad de generación se utiliza para bombear agua al depósito más alto. Cuando la demanda aumenta, el agua se libera de nuevo en el embalse inferior a través de una hidroturbina. Los esquemas de almacenamiento por bombeo proporcionan actualmente los medios más importantes comercialmente para el almacenamiento de energía en la red a gran escala y mejoran el factor de capacidad diaria del sistema de generación. El almacenamiento por bombeo no es una fuente de energía, y aparece como un número negativo en los listados.​
+
+Corriente de río
+Las estaciones hidroeléctricas de pasada son aquellas con una capacidad de reservorio pequeña o nula, por lo que solo el agua proveniente de aguas arriba está disponible para la generación en ese momento, y cualquier exceso de suministro se pierde sin ser utilizado. Un suministro constante de agua desde un lago o un embalse existente aguas arriba es una ventaja significativa al elegir los sitios para la corriente del río. En los Estados Unidos, la energía hidroeléctrica del río podría proporcionar 60 000 megavatios (80 000,000 hp), aproximadamente el 13.7% del uso total en 2011 si está disponible continuamente.​
+
+Marea
+
+Una central eléctrica de mareas, también llamada de energía mareomotriz, aprovecha el aumento y la caída diaria del agua del mar debido a las mareas; dichas fuentes son altamente predecibles y, si las condiciones permiten la construcción de reservorios, también se pueden utilizar para generar energía durante períodos de alta demanda. Estos tipos de esquemas hidroeléctricos, que son los menos comunes, utilizan la energía cinética del agua o fuentes no dañadas, como las ruedas de agua por debajo de la superficie. El poder de las mareas es viable en un número relativamente pequeño de lugares en todo el mundo ya que es necesario que  la diferencia de las alturas alcanzadas por la pleamar y la  bajamar sea importante. En Gran Bretaña, hay ocho sitios que podrían desarrollarse, que tienen el potencial de generar el 20% de la electricidad utilizada en 2012.​
+
+Tamaños, tipos y capacidades de instalaciones hidroeléctricas
+
+Grandes instalaciones
+Las centrales hidroeléctricas a gran escala se consideran más comúnmente como las instalaciones de producción de energía más grandes del mundo, con algunas instalaciones hidroeléctricas capaces de generar más del doble de las capacidades instaladas de las centrales nucleares más grandes actuales.
+Aunque no existe una definición oficial para el rango de capacidad de las grandes centrales hidroeléctricas, las instalaciones de más de unos pocos cientos de megavatios se consideran en general grandes centrales hidroeléctricas.
+Actualmente, solo cuatro instalaciones de más de 10 GW (10 000 MW ) están en funcionamiento en todo el mundo.​
+
+Pequeña
+
+La pequeña hidroeléctrica es el desarrollo de la energía hidroeléctrica a escala suficiente para que sirve a una pequeña comunidad o planta industrial. La definición de un proyecto hidroeléctrico pequeño varía, pero se acepta generalmente una capacidad de generación de hasta 10 megavatios (MW)  como el límite superior de lo que se puede denominar pequeña central hidroeléctrica. Puede extenderse hasta 25 MW o 30 MW en Canadá y los Estados Unidos. La producción de energía hidroeléctrica a pequeña escala creció un 29% entre 2005 y 2008, lo que elevó la capacidad total de pequeñas centrales hidroeléctricas del mundo a 85 GW . Más del 70% de la potencia total se produce en China (65 GW), seguido por Japón (3.5 GW), los Estados Unidos (3 GW), e India (2 GW).​
+​
+
+Las pequeñas estaciones hidroeléctricas pueden conectarse a las redes de distribución eléctrica convencionales como fuente de energía renovable de bajo costo. Alternativamente, los pequeños proyectos hidroeléctricos pueden construirse en áreas aisladas que no serían rentables para servir desde una red, o en áreas donde no hay una red nacional de distribución eléctrica. Dado que los pequeños proyectos hidroeléctricos suelen tener un mínimo de embalses y obras de construcción civil, se considera que tienen un impacto ambiental relativamente bajo en comparación con las grandes centrales hidroeléctricas. Esta disminución del impacto ambiental depende en gran medida del equilibrio entre el flujo de la corriente y la producción de energía.
+
+Micro
+«Micro hidro» es un término utilizado para las instalaciones de energía hidroeléctrica que normalmente producen hasta 100 kW de potencia. Estas instalaciones pueden proporcionar energía a un hogar aislado o comunidad pequeña, o a veces están conectadas a redes de energía eléctrica. Hay muchas de estas instalaciones en todo el mundo, particularmente en países en desarrollo ya que pueden proporcionar una fuente económica de energía sin la compra de combustible.​ Los micro sistemas hidroeléctricos complementan los sistemas de energía solar fotovoltaica porque en muchas áreas el flujo de agua, y por lo tanto la energía hidroeléctrica disponible, es más alta en el invierno cuando la energía solar es mínima.
+
+Pico
+Pico hidro es un término utilizado para la generación de energía hidroeléctrica de menos de 5 kW. Es útil en comunidades pequeñas y remotas que requieren solo una pequeña cantidad de electricidad. Por ejemplo, para alimentar una o dos bombillas fluorescentes y un televisor o radio para algunas casas.​ Incluso las turbinas más pequeñas de 200-300 W pueden alimentar una sola casa en un país en desarrollo con una desnivel de caída del de solo 1 m (3 pies). Una configuración Pico-hidroeléctrica suele estar en la corriente de un río, lo que significa que las represas no se usan, sino que las tuberías desvían parte del flujo, lo hacen descender en una pequeña altura y atraviesan la turbina antes de devolverla a la corriente.
+
+Subterránea
+Una estación de energía subterránea se usa generalmente en grandes instalaciones y hace uso de una gran diferencia de altura natural entre dos vías fluviales, como una cascada o un lago de montaña. Se construye un túnel subterráneo para llevar el agua desde el depósito superior hasta la sala de generación construida en una caverna subterránea cerca del punto más bajo del túnel de agua y una pista horizontal que lleva el agua a la vía de salida del canal inferior.
+
+Cálculo de la potencia disponible
+Una sencilla fórmula para aproximar la producción de energía eléctrica en una estación hidroeléctrica es la siguiente:
+
+        P
+        =
+        ρ
+        h
+        r
+        g
+        k
+
+    {\displaystyle P=\rho hrgk}
+
+, donde
+
+        P
+
+    {\displaystyle P}
+
+, es la potencia en vatios,
+
+        ρ
+
+    {\displaystyle \rho }
+
+, es la densidad del agua (~1000 kg/m³),
+
+        h
+
+    {\displaystyle h}
+
+, es altura del desnivel,
+
+        r
+
+    {\displaystyle r}
+
+, es el flujo de agua en m³/s,
+
+        g
+
+    {\displaystyle g}
+
+, es la aceleración de la gravedad, que es  9.8 m/s2,
+
+        k
+
+    {\displaystyle k}
+
+, es un coeficiente de eficiencia que va de 0 a 1. La eficiencia es más alta (es decir, más cercana a 1) con turbinas más grandes y más modernas.
+La producción anual de energía eléctrica depende del suministro de agua disponible. En algunas instalaciones, el caudal de agua puede variar en un factor de 10: 1 en el transcurso de un año.
+
+Propiedades
+
+Ventajas
+La central eléctrica Ffestiniog puede generar 360 MW de electricidad dentro de los 60 segundos posteriores a la demanda.
+
+Flexibilidad
+La energía hidroeléctrica es una fuente flexible de electricidad, ya que las estaciones se pueden subir y bajar muy rápidamente para adaptarse a las demandas cambiantes de energía.​ Las hidroturbinas tienen un tiempo de arranque del orden de unos pocos minutos.​ Se tarda entre 60 y 90 segundos en llevar una unidad desde el arranque en frío hasta la carga completa. Esto es mucho más corto que para turbinas de gas o plantas de vapor.​ La generación de energía también puede disminuirse rápidamente cuando hay un excedente de generación de energía.​ Por lo tanto, la capacidad limitada de las unidades hidroeléctricas no se usa generalmente para producir energía básica, excepto para desalojar el pozo de inundación o satisfacer las necesidades posteriores.​ En cambio, sirve como respaldo para generadores no hidroeléctricos.​

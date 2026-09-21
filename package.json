@@ -1,0 +1,22 @@
+{
+  "name": "rag-eval",
+  "version": "0.1.0",
+  "description": "Measure a RAG pipeline instead of guessing: retrieval (recall@k, MRR, nDCG) and answer-level (key-fact coverage, abstention) evaluation, with Ollama.",
+  "type": "module",
+  "license": "MIT",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "node --import tsx --test test/*.test.ts",
+    "fetch-corpus": "tsx scripts/fetch-corpus.ts",
+    "validate": "tsx src/cli.ts validate",
+    "retrieval": "tsx src/cli.ts retrieval",
+    "generation": "tsx src/cli.ts generation",
+    "report": "tsx src/cli.ts report"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  }
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "energia-solar",
+    "title": "Energía solar",
+    "url": "https://es.wikipedia.org/wiki/Energ%C3%ADa_solar",
+    "revision": 174469316,
+    "chars": 15830
+  },
+  {
+    "id": "energia-eolica",
+    "title": "Energía eólica",
+    "url": "https://es.wikipedia.org/wiki/Energ%C3%ADa_e%C3%B3lica",
+    "revision": 175213107,
+    "chars": 13842
+  },
+  {
+    "id": "energia-hidroelectrica",
+    "title": "Hidroelectricidad",
+    "url": "https://es.wikipedia.org/wiki/Hidroelectricidad",
+    "revision": 173783692,
+    "chars": 15160
+  },
+  {
+    "id": "revolucion-industrial",
+    "title": "Revolución Industrial",
+    "url": "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_Industrial",
+    "revision": 175386279,
+    "chars": 13969
+  },
+  {
+    "id": "revolucion-francesa",
+    "title": "Revolución francesa",
+    "url": "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_francesa",
+    "revision": 174942520,
+    "chars": 15418
+  },
+  {
+    "id": "miguel-de-cervantes",
+    "title": "Miguel de Cervantes",
+    "url": "https://es.wikipedia.org/wiki/Miguel_de_Cervantes",
+    "revision": 175361690,
+    "chars": 15936
+  },
+  {
+    "id": "alan-turing",
+    "title": "Alan Turing",
+    "url": "https://es.wikipedia.org/wiki/Alan_Turing",
+    "revision": 174447606,
+    "chars": 13608
+  },
+  {
+    "id": "fotosintesis",
+    "title": "Fotosíntesis",
+    "url": "https://es.wikipedia.org/wiki/Fotos%C3%ADntesis",
+    "revision": 175198350,
+    "chars": 14582
+  },
+  {
+    "id": "sistema-inmunitario",
+    "title": "Sistema inmunitario",
+    "url": "https://es.wikipedia.org/wiki/Sistema_inmunitario",
+    "revision": 174403025,
+    "chars": 15849
+  },
+  {
+    "id": "cordillera-de-los-andes",
+    "title": "Cordillera de los Andes",
+    "url": "https://es.wikipedia.org/wiki/Cordillera_de_los_Andes",
+    "revision": 175374082,
+    "chars": 15575
+  },
+  {
+    "id": "machu-picchu",
+    "title": "Machu Picchu",
+    "url": "https://es.wikipedia.org/wiki/Machu_Picchu",
+    "revision": 175078416,
+    "chars": 14782
+  },
+  {
+    "id": "camino-de-santiago",
+    "title": "Camino de Santiago",
+    "url": "https://es.wikipedia.org/wiki/Camino_de_Santiago",
+    "revision": 175401512,
+    "chars": 15748
+  }
+]
